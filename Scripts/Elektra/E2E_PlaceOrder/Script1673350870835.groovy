@@ -106,9 +106,8 @@ not_run: WebUI.verifyElementPresent(findTestObject('Object Repository/ElektraPag
 
 //WebUI.acceptAlert()
 ActualmyOrdersUrl = WebUI.getUrl()
+
 ActualmyOrdersUrl.contains(expectedMyordersUrl)
-
-
 
 not_run: WebUI.click(findTestObject('Pages/Checkout page/btnPlaceOrder'))
 
@@ -131,6 +130,8 @@ WebUI.navigateToUrl('https://www.elektra.mx/')
 not_run: WebUI.click(findTestObject('Object Repository/Page_Elektra, Tu Familia Vive Mejor/offers_icon-close_1'))
 
 WebUI.click(findTestObject('Object Repository/Page_Elektra, Tu Familia Vive Mejor/p_Departamentos'))
+
+WebUI.acceptAlert()
 
 WebUI.click(findTestObject('Object Repository/Page_Elektra, Tu Familia Vive Mejor/a_Blusas_l1Category'))
 
