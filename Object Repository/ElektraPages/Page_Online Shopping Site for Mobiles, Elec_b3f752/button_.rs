@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_</name>
+   <tag></tag>
+   <elementGuidId>cbdcd982-ae5d-4e2c-8933-5df0b50d129d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button._2KpZ6l._2doB4z</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Back to top'])[1]/following::button[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>79f6d5b8-3099-463e-9868-22e287e5f680</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_2KpZ6l _2doB4z</value>
+      <webElementGuid>cef9dc80-f846-47c1-b825-4e2ba9effae7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>✕</value>
+      <webElementGuid>b8aad68b-3499-4c58-bc98-c77351a3a781</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;fonts-loaded&quot;]/body[@class=&quot;fk-modal-visible&quot;]/div[@class=&quot;_2Sn47c&quot;]/div[@class=&quot;_2hriZF _2rbIyg&quot;]/div[@class=&quot;_2QfC02&quot;]/button[@class=&quot;_2KpZ6l _2doB4z&quot;]</value>
+      <webElementGuid>bb1b88c6-9731-4e9d-ab8e-d0dcf4580f91</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back to top'])[1]/following::button[1]</value>
+      <webElementGuid>e1d00611-0ec1-4359-af41-05f4989a2660</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Flipkart.com'])[1]/following::button[1]</value>
+      <webElementGuid>873c71e4-e62b-4b4b-af69-af10a737ece8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[2]/preceding::button[1]</value>
+      <webElementGuid>a0b48665-aa99-49a4-b74d-d4793ca43089</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Get access to your Orders, Wishlist and Recommendations'])[1]/preceding::button[1]</value>
+      <webElementGuid>6df144c6-1525-47b5-a545-ca981fc7b5e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='✕']/parent::*</value>
+      <webElementGuid>33a7968d-5829-4aef-9dba-d72b14c7834c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/button</value>
+      <webElementGuid>5262e006-7b31-437e-b0fc-0924261e4178</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = '✕' or . = '✕')]</value>
+      <webElementGuid>7ba1a8c5-7c85-4827-8367-d647702107b8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

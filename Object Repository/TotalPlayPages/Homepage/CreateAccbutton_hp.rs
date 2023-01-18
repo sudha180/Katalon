@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>CreateAccbutton_hp</name>
+   <tag></tag>
+   <elementGuidId>73c18b66-0acf-4f89-8e2a-dad9fa9d328e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.a-header__topLink</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/header/div[4]/div[2]/div/div/div/div[5]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a64ad2ee-22db-4f92-8ba3-3d51b523fe21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-header__topLink</value>
+      <webElementGuid>93b2b623-944d-4f84-bfbc-c13fe3d12a15</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Iniciar sesión</value>
+      <webElementGuid>c745fb12-287e-4dbe-bacd-c7b55503bf68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/header[1]/div[@class=&quot;o-header&quot;]/div[@class=&quot;o-container__fluid container-fluid&quot;]/div[@class=&quot;o-container container p-0&quot;]/div[@class=&quot;m-searchBar&quot;]/div[@class=&quot;o-checkout__header o-row row align-items-center no-gutters py-3 py-lg-2&quot;]/div[@class=&quot;o-col col-lg-auto d-none d-lg-flex text-center order-lg-4 sessionMinWidth&quot;]/span[@class=&quot;a-header__topLink&quot;]</value>
+      <webElementGuid>51dbcb46-9bed-436c-b416-af1d1027def4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/header/div[4]/div[2]/div/div/div/div[5]/span</value>
+      <webElementGuid>d9258b8d-ed0c-4355-a1d7-6f7241b1144a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mis Compras'])[1]/following::span[1]</value>
+      <webElementGuid>7adaeabd-73b9-4dd8-a442-911d36277c7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Banana Republic'])[1]/following::span[1]</value>
+      <webElementGuid>3c95b730-3912-403d-ab22-fa6232331982</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Categorías'])[1]/preceding::span[2]</value>
+      <webElementGuid>65812d85-ed43-4e1f-b2c6-2a7bdde385e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mujer'])[1]/preceding::span[3]</value>
+      <webElementGuid>4c7e42fd-d3a2-4af0-b35c-fcb91b9a44ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Iniciar sesión']/parent::*</value>
+      <webElementGuid>62000a0c-48f2-4ac2-a1d3-a6da478e9aa4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span</value>
+      <webElementGuid>e68b2c2c-d07f-4339-bfcb-068878a7ff20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Iniciar sesión' or . = 'Iniciar sesión')]</value>
+      <webElementGuid>5b126648-91f7-467f-b613-65b51384ffdb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

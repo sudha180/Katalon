@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Current Location</name>
+   <tag></tag>
+   <elementGuidId>0f0264c7-1894-42e0-b1a0-232f02bf214d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button._2KpZ6l._1IsWyb._3dESVI</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='button']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>605d4447-50e3-460f-9646-6407ddd7486f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_2KpZ6l _1IsWyb _3dESVI</value>
+      <webElementGuid>5b6b1325-407a-42d8-9abb-39b8bebd261a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a622da1d-94c1-4e85-afc1-66b68470a796</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Current Location</value>
+      <webElementGuid>48589934-8ce8-41f2-9c11-2e86cb437223</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;container&quot;)/div[1]/div[@class=&quot;_1kfTjk&quot;]/div[@class=&quot;_2nQkPF _1rH5Jn&quot;]/div[@class=&quot;_2Xfa2_&quot;]/div[@class=&quot;go_DOp _1ASpQe&quot;]/div[@class=&quot;_2yTL60&quot;]/div[@class=&quot;_1psGvi _3w81sF&quot;]/div[@class=&quot;ZEl_b_ p3O1zR _2ogGYG _23xUYh _3pAV4E&quot;]/div[@class=&quot;_3_Fivj&quot;]/div[@class=&quot;_3lp549&quot;]/div[@class=&quot;MSW93J&quot;]/div[@class=&quot;_1Ea8ce&quot;]/form[@class=&quot;E9Z0B8 _209xbS&quot;]/div[@class=&quot;_16MRF8&quot;]/button[@class=&quot;_2KpZ6l _1IsWyb _3dESVI&quot;]</value>
+      <webElementGuid>2acbabc0-6ccc-4e47-8cff-c0dfe0062c2b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='button']</value>
+      <webElementGuid>e97b65c0-29c8-423c-b1ab-b886432d3a46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='container']/div/div/div/div[2]/div[3]/div[2]/div/div[2]/div[2]/div/div/div/form/div/button</value>
+      <webElementGuid>c34219e1-b3c4-4192-919c-896e5910478b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Only available in selected cities'])[1]/following::button[1]</value>
+      <webElementGuid>a8de42e5-a58c-405d-8840-6c8dda55b5e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Current Location']/parent::*</value>
+      <webElementGuid>a4838484-8f69-4329-8e0b-5192e6c6bd6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/form/div/button</value>
+      <webElementGuid>05c096b6-96a0-4625-8fed-d10f4b03b96d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Current Location' or . = 'Current Location')]</value>
+      <webElementGuid>4a80d826-b073-470f-a757-5ceb613a8793</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

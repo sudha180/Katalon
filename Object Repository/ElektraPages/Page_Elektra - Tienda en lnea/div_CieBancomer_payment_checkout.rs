@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_CieBancomer_payment_checkout</name>
+   <tag></tag>
+   <elementGuidId>dca54deb-0c31-4100-b18f-fe5130e93092</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='App_partial__10XfR']/section/div[9]/section/section/section/nav/div[2]/div/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0c5934c0-959a-4c92-8f26-724f964922c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>PaymentMethods_methodName__6QLy0</value>
+      <webElementGuid>c26bb6b4-3fdb-498d-8e0e-a5ccfe293a44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>En efectivo en Banco Azteca o Elektra</value>
+      <webElementGuid>c0569894-7419-4403-906a-7aaaaed15717</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;App_partial__10XfR&quot;)/section[1]/div[@class=&quot;PaymentStep_module__5bUSo    undefined&quot;]/section[@class=&quot;PaymentStep_body__3YtId&quot;]/section[1]/section[@class=&quot;PaymentMethods_content__2jwCJ&quot;]/nav[@class=&quot;PaymentMethods_nav__3rF9g&quot;]/div[2]/div[1]/div[@class=&quot;PaymentMethods_method__3PcCF undefined&quot;]/div[@class=&quot;PaymentMethods_methodName__6QLy0&quot;]</value>
+      <webElementGuid>3f5fe5f6-8187-455e-bc89-02d17f276792</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='App_partial__10XfR']/section/div[9]/section/section/section/nav/div[2]/div/div/div[2]</value>
+      <webElementGuid>40acfde6-5ceb-4591-8571-1b3329e6b571</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PayPal'])[1]/following::div[6]</value>
+      <webElementGuid>725cc45b-05b5-40e8-a64c-10b7f1e93210</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pago con QR'])[1]/following::div[11]</value>
+      <webElementGuid>43b935ba-8d2a-4d77-bd06-78fa7c6daae8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Otros'])[1]/preceding::div[3]</value>
+      <webElementGuid>0cf68071-73e4-4e7a-acfd-047920a059d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='En efectivo en Banco Azteca o Elektra']/parent::*</value>
+      <webElementGuid>11f724c5-1929-4293-9789-4afdbf84a14f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav/div[2]/div/div/div[2]</value>
+      <webElementGuid>04d30280-d927-44a5-ac16-9a05d07ac5a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'En efectivo en Banco Azteca o Elektra' or . = 'En efectivo en Banco Azteca o Elektra')]</value>
+      <webElementGuid>c0a73286-c15a-419d-be12-735496df3cc1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

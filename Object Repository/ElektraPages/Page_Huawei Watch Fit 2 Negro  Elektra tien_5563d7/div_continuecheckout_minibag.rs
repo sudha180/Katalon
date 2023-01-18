@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_continuecheckout_minibag</name>
+   <tag></tag>
+   <elementGuidId>f083f587-e22c-40a7-9973-b8346290aa96</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='proceed-to-checkout']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>83aea1a5-7e9a-4ea9-9a41-f9dca7885d3e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vtex-button__label flex items-center justify-center h-100 ph6 w-100 border-box </value>
+      <webElementGuid>9c4a687d-04e8-4c75-8170-46a0414b70dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ir al checkout</value>
+      <webElementGuid>4249935d-2cb6-44e0-a5cc-a6319d84ab72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;proceed-to-checkout&quot;)/div[@class=&quot;vtex-button__label flex items-center justify-center h-100 ph6 w-100 border-box&quot;]</value>
+      <webElementGuid>4d7be1f1-0816-4d7e-96bc-5f5a70defef0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='proceed-to-checkout']/div</value>
+      <webElementGuid>15abbd0e-962c-46a7-bf5a-35d5fb81ec78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tasas y fletes calculados en el carrito'])[1]/following::div[7]</value>
+      <webElementGuid>d22922c5-22ca-4d5a-9e72-5d448934d8ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$2,999.00'])[2]/following::div[7]</value>
+      <webElementGuid>1300dfc2-5309-4a17-ae32-3258d4753406</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Ir al checkout']/parent::*</value>
+      <webElementGuid>bc37012b-e232-4e42-87f8-0efe72ce564a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/button/div</value>
+      <webElementGuid>8efa6af2-17e5-49a3-bf79-b17be524a0a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Ir al checkout' or . = 'Ir al checkout')]</value>
+      <webElementGuid>c569ba9a-2d30-4fce-abd1-7e3ecab2bde5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Departamentos</name>
+   <tag></tag>
+   <elementGuidId>31924f13-fa19-47c7-991d-5c1d2bbc8106</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.depbox > p</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='menuDep']//div[@class='container-dep']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>e99f8e43-120e-43d9-9ff9-da91797cf76f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Departamentos</value>
+      <webElementGuid>1bd290c9-759f-44b8-acae-8396d976bbdd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menuDep&quot;)/div[@class=&quot;container-dep&quot;]/div[@class=&quot;depbox&quot;]/p[1]</value>
+      <webElementGuid>085dfe2b-9db7-4dd6-a72a-5b383990662c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='menuDep']/div[2]/div/p</value>
+      <webElementGuid>fe2e06bc-1004-4783-9a33-3f0d7c7dfd16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Entrar'])[1]/following::p[23]</value>
+      <webElementGuid>5e896efb-3cfd-49d0-949e-30e7f4e6d656</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Inicia sesión'])[1]/following::p[23]</value>
+      <webElementGuid>2aefd4b7-6d95-4851-88c1-700440ce511c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ingresa tu C.P.'])[1]/preceding::p[1]</value>
+      <webElementGuid>ddf0cec6-b3bb-43e8-8fb7-8cbfae750b1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ubica tu tienda'])[1]/preceding::p[1]</value>
+      <webElementGuid>304f369d-66fa-410c-b768-a31a532d44b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Departamentos']/parent::*</value>
+      <webElementGuid>50be5f74-99b7-47c0-88ed-da18ae31bfa4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/p</value>
+      <webElementGuid>af51b984-1c90-47ce-8fd6-91a151d3cb05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Departamentos' or . = 'Departamentos')]</value>
+      <webElementGuid>b7d76214-ccee-48ad-ba86-f8f01b77db89</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

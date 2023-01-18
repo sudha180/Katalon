@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>offers_icon-close_1</name>
+   <tag></tag>
+   <elementGuidId>40b6c8fc-3283-460d-853c-e3a9b76ad216</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Oferta Relámpago'])[1]/following::*[name()='svg'][1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>6791d7ac-01ae-46fe-946d-472608cf13fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vtex__icon-close  </value>
+      <webElementGuid>9fd57411-585e-4968-a650-47d84ff886b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>16</value>
+      <webElementGuid>b0212bf9-c061-4a91-a835-ce1b047fab3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>16</value>
+      <webElementGuid>ac3a18b2-5598-46c9-838c-dfcd72a20292</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 18 18</value>
+      <webElementGuid>1f93ff34-f1c4-4952-8336-f46ee21d153f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>e3d8b2f3-7cbf-4653-bbb5-9e26b8f70bc8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns:xlink</name>
+      <type>Main</type>
+      <value>http://www.w3.org/1999/xlink</value>
+      <webElementGuid>156f6b5b-b5e3-4d24-8385-ed607ed6f639</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>none</value>
+      <webElementGuid>8b7cd549-68c8-414d-9dfc-a345e5021b2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;bg-base&quot;]/div[@class=&quot;render-container render-route-store-home&quot;]/div[@class=&quot;render-provider&quot;]/div[@class=&quot;vtex-store__template bg-base&quot;]/div[@class=&quot;flex flex-column min-vh-100 w-100&quot;]/div[@class=&quot;vtex-sticky-layout-0-x-wrapper vtex-sticky-layout-0-x-wrapper--sticky-header-1&quot;]/div[@class=&quot;vtex-sticky-layout-0-x-container vtex-sticky-layout-0-x-container--sticky-header-1 z-999 relative left-0 right-0&quot;]/div[@class=&quot;elektra-flashsale-0-x-container undefined false&quot;]/div[@class=&quot;elektra-flashsale-0-x-flashHeader&quot;]/div[@class=&quot;absolute z-999 top-0 right-0 pa2 elektra-flashsale-0-x-closeButton&quot;]/button[@class=&quot;vtex-button bw1 ba fw5 v-mid relative pa0 lh-solid br2 min-h-regular t-action icon-button dib bg-transparent b--transparent c-action-primary hover-b--transparent hover-bg-action-secondary hover-b--action-secondary pointer&quot;]/div[@class=&quot;vtex-button__label flex items-center justify-center h-100 ph4&quot;]/svg[@class=&quot;vtex__icon-close&quot;]</value>
+      <webElementGuid>055c1b03-5c90-4e89-91b8-0dcf321bc56e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Oferta Relámpago'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>2c849cba-b1ad-4973-a759-f932955e493e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Termina en 01:12:00'])[1]/preceding::*[name()='svg'][3]</value>
+      <webElementGuid>e5ebb745-ae13-44eb-88f8-f944fc35f303</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apple iPhone 11 64GB NEGRO REACONDICIONADO'])[1]/preceding::*[name()='svg'][3]</value>
+      <webElementGuid>4346563f-64fd-4ea1-9c31-4468445b544f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Envo a domicilioNo disponible</name>
+   <tag></tag>
+   <elementGuidId>1ca92b38-d21a-4ed5-b6c0-264dd8c6b05e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='App_partial__10XfR']/div/div[4]/div/table/tbody/tr/td</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>f41a04f2-6db8-4d90-9273-a95d88afe872</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Envío a domicilioNo disponible</value>
+      <webElementGuid>df7c036f-cda6-4adb-b112-56ac6e9cfab0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;App_partial__10XfR&quot;)/div[1]/div[@class=&quot;cart_deliveryTypeContainer__1EppT&quot;]/div[@class=&quot;cart_deliveryTypeTab__3G9SE&quot;]/table[@class=&quot;cart_deliveryTypeTabContent__G75iE&quot;]/tbody[1]/tr[1]/td[1]</value>
+      <webElementGuid>df881b6d-0929-463a-81db-2eb5484e661a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='App_partial__10XfR']/div/div[4]/div/table/tbody/tr/td</value>
+      <webElementGuid>1839bfc0-58c0-4215-9479-ac7ada01039b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selecciona la forma de entrega'])[1]/following::td[1]</value>
+      <webElementGuid>e62da578-d3c4-428b-9a9f-1a52664cab0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buscar'])[1]/following::td[1]</value>
+      <webElementGuid>cf366732-9b99-4dcd-8b9e-b1d613647f82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Envío a domicilio']/parent::*</value>
+      <webElementGuid>6928b47c-46c1-48f6-b3c2-ef82382342f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td</value>
+      <webElementGuid>0a3bbd27-ec41-4801-ace0-f38fee6d50bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Envío a domicilioNo disponible' or . = 'Envío a domicilioNo disponible')]</value>
+      <webElementGuid>ccc04849-0919-4137-8780-549c2eaddc74</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

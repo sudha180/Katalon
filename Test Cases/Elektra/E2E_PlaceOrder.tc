@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>place an order as loggedin and verify the order</description>
+   <name>E2E_PlaceOrder</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>203cf95b-48c1-4b42-aa15-e5da643a8925</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f0d23c95-4ed1-41df-a61e-a06613b824ae</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a4b35fa5-fffa-46d3-b4ce-7c687757a0dd</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f008d37d-5a42-4f84-86e0-de2c5291d222</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'https://www.elektra.mx/checkout/orderPlaced'</defaultValue>
+      <description></description>
+      <id>f0d23c95-4ed1-41df-a61e-a06613b824ae</id>
+      <masked>false</masked>
+      <name>confirmationPageUrl</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a4b35fa5-fffa-46d3-b4ce-7c687757a0dd</id>
+      <masked>false</masked>
+      <name>ActualmyOrdersUrl</name>
+   </variable>
+   <variable>
+      <defaultValue>'https://www.elektra.mx/account#/pedidos'</defaultValue>
+      <description></description>
+      <id>f008d37d-5a42-4f84-86e0-de2c5291d222</id>
+      <masked>false</masked>
+      <name>expectedMyordersUrl</name>
+   </variable>
+</TestCaseEntity>

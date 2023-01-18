@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>tc_place order as logged in</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ec3df032-1809-43f4-bec7-79ad589445b4</testCaseGuid>
+</TestCaseEntity>

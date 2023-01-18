@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Iniciar sesin</name>
+   <tag></tag>
+   <elementGuidId>8c67d9d3-2766-4687-8679-8ccfa8c29a93</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button[name=&quot;action&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@name='action']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>49a40c13-0bd4-469c-b30e-cb235a94f556</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>bc8c24d5-c60f-48d8-afc4-a4d24e3768ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>action</value>
+      <webElementGuid>7ce4a13d-8c4a-4eb5-8e80-d3ba65446812</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>default</value>
+      <webElementGuid>49afc819-9e62-42f0-b82c-79acb76242a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>c8fca5323 cb6b7c993 cee1c07cc c850d9a60 cd5bfc8eb</value>
+      <webElementGuid>948ece07-2f66-4263-b2f1-fd922568516f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Iniciar sesión</value>
+      <webElementGuid>6456e359-2d53-47eb-8581-2ec40d02ff21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;_widget-auto-layout _hide-prompt-logo&quot;]/code[1]/main[@class=&quot;_widget login&quot;]/section[@class=&quot;c5b56af8f _prompt-box-outer c2d14002d&quot;]/div[@class=&quot;c83892ad4 cb0e08e4c&quot;]/div[@class=&quot;c8439017a&quot;]/div[@class=&quot;cba4890ae cc94cb3d4&quot;]/form[@class=&quot;cf017d8ed cc485aafa&quot;]/div[@class=&quot;ce5b0411e&quot;]/button[@class=&quot;c8fca5323 cb6b7c993 cee1c07cc c850d9a60 cd5bfc8eb&quot;]</value>
+      <webElementGuid>c71c8487-060b-454e-9c27-8bec3ebb1af5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@name='action']</value>
+      <webElementGuid>2dd86586-102d-4664-9a4b-39ba939e94b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='¿Olvidaste tu contraseña?'])[1]/following::button[1]</value>
+      <webElementGuid>1aabda8a-e204-4e45-9a19-f9d5e041f4f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hide password'])[2]/following::button[1]</value>
+      <webElementGuid>8dd19908-9270-4f38-bdbd-3ffa17877fc7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Crear cuenta'])[1]/preceding::button[1]</value>
+      <webElementGuid>853b7f49-4273-4211-b6ca-9a01544f38b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='O'])[1]/preceding::button[1]</value>
+      <webElementGuid>343d24ad-9008-40dc-bbee-aa1c05b659f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Iniciar sesión']/parent::*</value>
+      <webElementGuid>5e515651-88fa-4fe1-b0e2-c2cf63113d86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button</value>
+      <webElementGuid>e1868195-2fc0-415d-867b-a826c09dd4ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and @name = 'action' and (text() = 'Iniciar sesión' or . = 'Iniciar sesión')]</value>
+      <webElementGuid>9bc9f7f9-e84c-4019-96ea-10cf2f6cd918</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

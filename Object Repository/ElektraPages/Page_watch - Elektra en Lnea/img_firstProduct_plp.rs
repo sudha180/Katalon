@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_firstProduct_plp</name>
+   <tag></tag>
+   <elementGuidId>3ae245f0-8fa2-44d2-8cb8-48d7ece50637</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//article//div[@class='vtex-flex-layout-0-x-flexCol vtex-flex-layout-0-x-flexCol--promotion-image-svg  ml0 mr0 pl0 pr0      flex flex-column h-100 w-100'])[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>5f50468b-3a5b-4c4c-bda6-2c49a0095f27</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://elektra.vtexassets.com/arquivos/ids/3466597-500-auto?v=1759802643&amp;width=500&amp;height=auto&amp;aspect=true</value>
+      <webElementGuid>aeea8276-cd4e-48ca-93ca-5014b63d8c38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>loading</name>
+      <type>Main</type>
+      <value>auto</value>
+      <webElementGuid>ebd47434-27b2-4377-aede-bc78e2120511</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Huawei Watch Fit 2 Negro</value>
+      <webElementGuid>11ceda5a-7d66-42b7-9271-197d2f74ad99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vtex-product-summary-2-x-imageNormal vtex-product-summary-2-x-image</value>
+      <webElementGuid>559f2880-880b-449c-90ca-1053a739d8bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>crossorigin</name>
+      <type>Main</type>
+      <value>anonymous</value>
+      <webElementGuid>4ccf4b1a-cfbd-4f82-b984-00fb698f626a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;gallery-layout-container&quot;)/div[@class=&quot;vtex-search-result-3-x-galleryItem vtex-search-result-3-x-galleryItem--normal vtex-search-result-3-x-galleryItem--grid pa4&quot;]/section[@class=&quot;vtex-product-summary-2-x-container vtex-product-summary-2-x-container--customPricePlp vtex-product-summary-2-x-container--OutletProductsNotAvailable vtex-product-summary-2-x-containerNormal vtex-product-summary-2-x-containerNormal--customPricePlp vtex-product-summary-2-x-containerNormal--OutletProductsNotAvailable overflow-hidden br3 h-100 w-100 flex flex-column justify-between center tc&quot;]/a[@class=&quot;vtex-product-summary-2-x-clearLink vtex-product-summary-2-x-clearLink--customPricePlp vtex-product-summary-2-x-clearLink--OutletProductsNotAvailable h-100 flex flex-column&quot;]/article[@class=&quot;vtex-product-summary-2-x-element vtex-product-summary-2-x-element--customPricePlp vtex-product-summary-2-x-element--OutletProductsNotAvailable pointer pt3 pb4 flex flex-column h-100&quot;]/div[@class=&quot;vtex-flex-layout-0-x-flexCol vtex-flex-layout-0-x-flexCol--promotion-image-svg  ml0 mr0 pl0 pr0      flex flex-column h-100 w-100&quot;]/div[@class=&quot;vtex-flex-layout-0-x-flexColChild vtex-flex-layout-0-x-flexColChild--promotion-image-svg pb0&quot;]/div[@class=&quot;vtex-stack-layout-0-x-stackContainer relative&quot;]/div[@class=&quot;vtex-stack-layout-0-x-stackItem vtex-stack-layout-0-x-stackItem--first&quot;]/div[@class=&quot;vtex-product-summary-2-x-imageContainer vtex-product-summary-2-x-imageWrapper db w-100 center&quot;]/div[@class=&quot;dib relative vtex-product-summary-2-x-imageContainer vtex-product-summary-2-x-imageStackContainer vtex-product-summary-2-x-hoverEffect&quot;]/img[@class=&quot;vtex-product-summary-2-x-imageNormal vtex-product-summary-2-x-image&quot;]</value>
+      <webElementGuid>aecf5ff8-ef05-4928-9be7-aab57d70bb2e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='gallery-layout-container']/div/section/a/article/div/div[2]/div/div/div/div/img</value>
+      <webElementGuid>890d526d-501f-455f-a2da-ce532c723b67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Huawei Watch Fit 2 Negro']</value>
+      <webElementGuid>5d069ee3-ba85-440d-ae9d-9eb11712484d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//article/div/div[2]/div/div/div/div/img</value>
+      <webElementGuid>81c08127-b513-4388-b01c-4769fefea0e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://elektra.vtexassets.com/arquivos/ids/3466597-500-auto?v=1759802643&amp;width=500&amp;height=auto&amp;aspect=true' and @alt = 'Huawei Watch Fit 2 Negro']</value>
+      <webElementGuid>5068abf9-f03c-44b9-83c9-578d116607c7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

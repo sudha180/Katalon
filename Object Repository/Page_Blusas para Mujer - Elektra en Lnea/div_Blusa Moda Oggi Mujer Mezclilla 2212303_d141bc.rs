@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Blusa Moda Oggi Mujer Mezclilla 2212303_d141bc</name>
+   <tag></tag>
+   <elementGuidId>a6e88e4b-47a9-4c6f-a3b2-caeaa3df5e52</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='gallery-layout-container']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#gallery-layout-container</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>307ab706-6c45-47d5-b76d-21542fbc787f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>gallery-layout-container</value>
+      <webElementGuid>0adde5bc-001a-4e08-ba3b-971a98706f37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vtex-search-result-3-x-gallery vtex-search-result-3-x-gallery--grid flex flex-row flex-wrap items-stretch bn ph1 na4 pl9-l</value>
+      <webElementGuid>8984030d-69de-447c-8278-e7c1b1a3eb6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Blusa Moda Oggi Mujer Mezclilla 2212303 Azul Claro Slim  $689$34 semanales con Envío a domicilioRecoge en tiendaBlusa Casual Lee Mujer Manga Larga R45 Rosa  $485$41 semanales con Envío a domicilioRecoge en tiendaBlusa de encaje cuello V Negro  $1,499$44 semanales con Envío a domicilioRecoge en tiendaBlusa tejida hombros descubiertos Rojo  $1,799$54 semanales con Envío a domicilioRecoge en tiendaBlusa tejida hombros descubiertos Verde  $1,799$54 semanales con Envío a domicilioRecoge en tiendaBody de brillos Negro  $1,399$41 semanales con Envío a domicilioRecoge en tiendaBlusa de encaje cuello V Blanco  $1,499$44 semanales con Envío a domicilioRecoge en tiendaBlusa satinada manga puño Dorado  $1,499$44 semanales con Envío a domicilioRecoge en tiendaBody de brillos Plateado  $1,399$41 semanales con Envío a domicilioRecoge en tiendaBlusa satinada manga puño Rosa  $1,499$44 semanales con Envío a domicilioRecoge en tiendaBlusa satinada manga puño Negro  $1,499$44 semanales con Envío a domicilioRecoge en tiendaBlusa Casual Lee Mujer E40 Azul  $515$26 semanales con Envío a domicilioRecoge en tiendaBLUSA CASUAL LEE MUJER H10 Multicolor  $489$41 semanales con Envío a domicilioRecoge en tiendaBlusa tejida manga amplia con cinto Rosa  $1,699$51 semanales con Envío a domicilioRecoge en tiendaBlusa tejida hombros descubiertos Negro  $1,799$54 semanales con Envío a domicilioRecoge en tiendaBlusa Adidas Rcl Trad Polo Total Wht Sylver - Mujer $799$699$34 semanales con Envío a domicilioRecoge en tiendaBlusa tejida manga amplia con cinto Azul  $1,699$51 semanales con Envío a domicilioRecoge en tiendaBlusa tejida manga amplia con cinto Negro  $1,699$51 semanales con Envío a domicilioRecoge en tiendaBlusa tejida hombros descubiertos Café  $1,799$54 semanales con Envío a domicilioRecoge en tienda</value>
+      <webElementGuid>92b6b992-751b-487e-9351-81a771359f8b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;gallery-layout-container&quot;)</value>
+      <webElementGuid>47763fee-3f59-48a9-b5aa-9e827415c8ef</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='gallery-layout-container']</value>
+      <webElementGuid>3c73490c-ca20-409c-81ef-98c32f995f66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nombre, decreciente'])[1]/following::div[19]</value>
+      <webElementGuid>7b376f47-44f2-4f90-888c-31848c8eb65c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nombre, creciente'])[1]/following::div[19]</value>
+      <webElementGuid>833c17f7-8961-4c22-9590-740ac85d4e25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div/div[6]/div/div/div/div</value>
+      <webElementGuid>a3e3652c-eba4-416e-abfa-57c827da186b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'gallery-layout-container' and (text() = 'Blusa Moda Oggi Mujer Mezclilla 2212303 Azul Claro Slim  $689$34 semanales con Envío a domicilioRecoge en tiendaBlusa Casual Lee Mujer Manga Larga R45 Rosa  $485$41 semanales con Envío a domicilioRecoge en tiendaBlusa de encaje cuello V Negro  $1,499$44 semanales con Envío a domicilioRecoge en tiendaBlusa tejida hombros descubiertos Rojo  $1,799$54 semanales con Envío a domicilioRecoge en tiendaBlusa tejida hombros descubiertos Verde  $1,799$54 semanales con Envío a domicilioRecoge en tiendaBody de brillos Negro  $1,399$41 semanales con Envío a domicilioRecoge en tiendaBlusa de encaje cuello V Blanco  $1,499$44 semanales con Envío a domicilioRecoge en tiendaBlusa satinada manga puño Dorado  $1,499$44 semanales con Envío a domicilioRecoge en tiendaBody de brillos Plateado  $1,399$41 semanales con Envío a domicilioRecoge en tiendaBlusa satinada manga puño Rosa  $1,499$44 semanales con Envío a domicilioRecoge en tiendaBlusa satinada manga puño Negro  $1,499$44 semanales con Envío a domicilioRecoge en tiendaBlusa Casual Lee Mujer E40 Azul  $515$26 semanales con Envío a domicilioRecoge en tiendaBLUSA CASUAL LEE MUJER H10 Multicolor  $489$41 semanales con Envío a domicilioRecoge en tiendaBlusa tejida manga amplia con cinto Rosa  $1,699$51 semanales con Envío a domicilioRecoge en tiendaBlusa tejida hombros descubiertos Negro  $1,799$54 semanales con Envío a domicilioRecoge en tiendaBlusa Adidas Rcl Trad Polo Total Wht Sylver - Mujer $799$699$34 semanales con Envío a domicilioRecoge en tiendaBlusa tejida manga amplia con cinto Azul  $1,699$51 semanales con Envío a domicilioRecoge en tiendaBlusa tejida manga amplia con cinto Negro  $1,699$51 semanales con Envío a domicilioRecoge en tiendaBlusa tejida hombros descubiertos Café  $1,799$54 semanales con Envío a domicilioRecoge en tienda' or . = 'Blusa Moda Oggi Mujer Mezclilla 2212303 Azul Claro Slim  $689$34 semanales con Envío a domicilioRecoge en tiendaBlusa Casual Lee Mujer Manga Larga R45 Rosa  $485$41 semanales con Envío a domicilioRecoge en tiendaBlusa de encaje cuello V Negro  $1,499$44 semanales con Envío a domicilioRecoge en tiendaBlusa tejida hombros descubiertos Rojo  $1,799$54 semanales con Envío a domicilioRecoge en tiendaBlusa tejida hombros descubiertos Verde  $1,799$54 semanales con Envío a domicilioRecoge en tiendaBody de brillos Negro  $1,399$41 semanales con Envío a domicilioRecoge en tiendaBlusa de encaje cuello V Blanco  $1,499$44 semanales con Envío a domicilioRecoge en tiendaBlusa satinada manga puño Dorado  $1,499$44 semanales con Envío a domicilioRecoge en tiendaBody de brillos Plateado  $1,399$41 semanales con Envío a domicilioRecoge en tiendaBlusa satinada manga puño Rosa  $1,499$44 semanales con Envío a domicilioRecoge en tiendaBlusa satinada manga puño Negro  $1,499$44 semanales con Envío a domicilioRecoge en tiendaBlusa Casual Lee Mujer E40 Azul  $515$26 semanales con Envío a domicilioRecoge en tiendaBLUSA CASUAL LEE MUJER H10 Multicolor  $489$41 semanales con Envío a domicilioRecoge en tiendaBlusa tejida manga amplia con cinto Rosa  $1,699$51 semanales con Envío a domicilioRecoge en tiendaBlusa tejida hombros descubiertos Negro  $1,799$54 semanales con Envío a domicilioRecoge en tiendaBlusa Adidas Rcl Trad Polo Total Wht Sylver - Mujer $799$699$34 semanales con Envío a domicilioRecoge en tiendaBlusa tejida manga amplia con cinto Azul  $1,699$51 semanales con Envío a domicilioRecoge en tiendaBlusa tejida manga amplia con cinto Negro  $1,699$51 semanales con Envío a domicilioRecoge en tiendaBlusa tejida hombros descubiertos Café  $1,799$54 semanales con Envío a domicilioRecoge en tienda')]</value>
+      <webElementGuid>303fec3e-b8d5-425d-a61f-280d34ea15ff</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Entregaremos tu carrito en el cdigo pos_1256e8</name>
+   <tag></tag>
+   <elementGuidId>a1660a4b-4167-40c6-8cc1-15c795d807bf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='App_partial__10XfR']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#App_partial__10XfR > div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>330e9967-5e44-41d5-8cd6-84bcb5bd27fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Entregaremos tu carrito en el código postal:Código postalIngresa un código postal válidoBuscarSelecciona la forma de entregaEnvío a domicilioNo disponibleEntrega en tiendaNo disponibleVendido por Oggi JeansBlusa Moda Oggi Mujer Mezclilla 2212303 Azul Claro Slim CHVendido y entregado por Oggi Jeans$34 semanalesPrecio contado: $689Quitar2 pzas.AgregarEliminar</value>
+      <webElementGuid>07cbb321-2419-4f1d-baac-86486339a000</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;App_partial__10XfR&quot;)/div[1]</value>
+      <webElementGuid>a9ef670f-2a5b-410d-a53b-39abe0fafc15</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='App_partial__10XfR']/div</value>
+      <webElementGuid>c7e6ad41-42de-4148-9a65-9b0ecb81b2bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pedido confirmado'])[1]/following::div[4]</value>
+      <webElementGuid>8154719c-8c50-4cab-9041-aabb4016b6f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selecciona tu envío y pago'])[1]/following::div[5]</value>
+      <webElementGuid>b0d08440-e6b4-4da7-acf5-8ffed9556f2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main/section/div</value>
+      <webElementGuid>448a1460-3a3e-4de3-a769-0b25087cfe7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Entregaremos tu carrito en el código postal:Código postalIngresa un código postal válidoBuscarSelecciona la forma de entregaEnvío a domicilioNo disponibleEntrega en tiendaNo disponibleVendido por Oggi JeansBlusa Moda Oggi Mujer Mezclilla 2212303 Azul Claro Slim CHVendido y entregado por Oggi Jeans$34 semanalesPrecio contado: $689Quitar2 pzas.AgregarEliminar' or . = 'Entregaremos tu carrito en el código postal:Código postalIngresa un código postal válidoBuscarSelecciona la forma de entregaEnvío a domicilioNo disponibleEntrega en tiendaNo disponibleVendido por Oggi JeansBlusa Moda Oggi Mujer Mezclilla 2212303 Azul Claro Slim CHVendido y entregado por Oggi Jeans$34 semanalesPrecio contado: $689Quitar2 pzas.AgregarEliminar')]</value>
+      <webElementGuid>eb54788a-67c9-49d4-94d5-8a5189eda8f6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
