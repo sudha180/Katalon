@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>assertFilterSelected_plp</name>
+   <tag></tag>
+   <elementGuidId>45c9f005-401d-4e7f-b4bc-fd2bf3c63223</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@class='vtex-search-result-3-x-filterItem vtex-search-result-3-x-filterItem--plateado vtex-search-result-3-x-selectedFilterItem lh-copy w-100 vtex-search-result-3-x-filterItem--selected']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#katalon-spy_elementInfoDiv</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>518c5ed7-a62f-42d8-a28c-b48d996fb811</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>katalon-spy_elementInfoDiv</value>
+      <webElementGuid>2fb336eb-39cc-45e2-81d4-c2d4b271ae12</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;bg-base&quot;]/div[@class=&quot;render-container render-route-vtex-store-2-x-store-custom-promocion-telefonia-iphone&quot;]/div[@class=&quot;render-provider&quot;]/div[@class=&quot;vtex-store__template bg-base&quot;]/div[@class=&quot;flex flex-column min-vh-100 w-100&quot;]/div[5]/div[@class=&quot;flex flex-grow-1 w-100 flex-column&quot;]/div[3]/div[@class=&quot;vtex-flex-layout-0-x-flexRow vtex-flex-layout-0-x-flexRow--outlet-global&quot;]/section[@class=&quot;vtex-store-components-3-x-container ph3 ph5-m ph2-xl mw9 center&quot;]/div[@class=&quot;flex mt0 mb0 pt0 pb0    justify-start vtex-flex-layout-0-x-flexRowContent vtex-flex-layout-0-x-flexRowContent--outlet-global items-stretch w-100&quot;]/div[@class=&quot;pr0 items-stretch vtex-flex-layout-0-x-stretchChildrenWidth   flex&quot;]/div[@class=&quot;mw9 center ph3-ns vtex-container-global-landing-outlet&quot;]/section[@class=&quot;vtex-store-components-3-x-container ph3 ph5-m ph2-xl mw9 center vtex-search-result-3-x-searchResultContainer pt3-m pt5-l&quot;]/div[@class=&quot;relative justify-center flex&quot;]/div[@class=&quot;vtex-search-result-3-x-loadingOverlay w-100 flex flex-column flex-grow-1 vtex-search-result-3-x-container--layout&quot;]/div[@class=&quot;vtex-flex-layout-0-x-flexRow&quot;]/div[@class=&quot;flex mt0 mb0 pt0 pb0    justify-start vtex-flex-layout-0-x-flexRowContent items-stretch w-100&quot;]/div[@class=&quot;pr0 items-stretch    flex&quot;]/div[@class=&quot;vtex-flex-layout-0-x-flexCol vtex-flex-layout-0-x-flexCol--filterCol  ml0 mr0 pl0 pr0      flex flex-column h-100 w-100&quot;]/div[@class=&quot;vtex-flex-layout-0-x-flexColChild vtex-flex-layout-0-x-flexColChild--filterCol pb0&quot;]/div[@class=&quot;vtex-search-result-3-x-filters--layout&quot;]/div[@class=&quot;vtex-search-result-3-x-filtersWrapper&quot;]/div[@class=&quot;vtex-search-result-3-x-filter__container bb b--muted-4 vtex-search-result-3-x-filter__container--selectedFilters&quot;]/div[@class=&quot;vtex-search-result-3-x-filterTemplateOverflow pb5&quot;]/div[@class=&quot;vtex-search-result-3-x-filterItem vtex-search-result-3-x-filterItem--plateado vtex-search-result-3-x-selectedFilterItem lh-copy w-100 vtex-search-result-3-x-filterItem--selected&quot;]/div[@class=&quot;vtex-checkbox__line-container flex items-start relative pointer&quot;]/div[@class=&quot;vtex-checkbox__container relative w1 h1 mr3&quot;]/input[@id=&quot;color-plateado&quot;]</value>
+      <webElementGuid>af6575bf-d8e6-4ed1-82ac-81d6db84db7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;katalon-spy_elementInfoDiv&quot;)</value>
+      <webElementGuid>075df793-adf8-4201-8ee3-04817dd72fef</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='katalon-spy_elementInfoDiv']</value>
+      <webElementGuid>a2907d09-cab2-4c95-985b-6b5a6161cc4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='katalon']/div[2]</value>
+      <webElementGuid>ac7b22e0-0acf-4741-bc23-6a2d094bf684</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[2]/following::div[1]</value>
+      <webElementGuid>919a394c-601d-41c6-874f-dbab1b28e275</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alt'])[2]/following::div[1]</value>
+      <webElementGuid>f0643a90-f52f-4a4b-ab29-d80da28f040f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='✖'])[1]/preceding::div[4]</value>
+      <webElementGuid>e6bc6621-e32d-47cf-8c43-a424d28949dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='✖'])[2]/preceding::div[15]</value>
+      <webElementGuid>27b5b35c-f0e0-4d30-a34b-3873d95e6ac4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]</value>
+      <webElementGuid>c7995aa6-da76-48ea-a4f5-2268c066030c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'katalon-spy_elementInfoDiv' and (text() = '/html[1]/body[@class=&quot;bg-base&quot;]/div[@class=&quot;render-container render-route-vtex-store-2-x-store-custom-promocion-telefonia-iphone&quot;]/div[@class=&quot;render-provider&quot;]/div[@class=&quot;vtex-store__template bg-base&quot;]/div[@class=&quot;flex flex-column min-vh-100 w-100&quot;]/div[5]/div[@class=&quot;flex flex-grow-1 w-100 flex-column&quot;]/div[3]/div[@class=&quot;vtex-flex-layout-0-x-flexRow vtex-flex-layout-0-x-flexRow--outlet-global&quot;]/section[@class=&quot;vtex-store-components-3-x-container ph3 ph5-m ph2-xl mw9 center&quot;]/div[@class=&quot;flex mt0 mb0 pt0 pb0    justify-start vtex-flex-layout-0-x-flexRowContent vtex-flex-layout-0-x-flexRowContent--outlet-global items-stretch w-100&quot;]/div[@class=&quot;pr0 items-stretch vtex-flex-layout-0-x-stretchChildrenWidth   flex&quot;]/div[@class=&quot;mw9 center ph3-ns vtex-container-global-landing-outlet&quot;]/section[@class=&quot;vtex-store-components-3-x-container ph3 ph5-m ph2-xl mw9 center vtex-search-result-3-x-searchResultContainer pt3-m pt5-l&quot;]/div[@class=&quot;relative justify-center flex&quot;]/div[@class=&quot;vtex-search-result-3-x-loadingOverlay w-100 flex flex-column flex-grow-1 vtex-search-result-3-x-container--layout&quot;]/div[@class=&quot;vtex-flex-layout-0-x-flexRow&quot;]/div[@class=&quot;flex mt0 mb0 pt0 pb0    justify-start vtex-flex-layout-0-x-flexRowContent items-stretch w-100&quot;]/div[@class=&quot;pr0 items-stretch    flex&quot;]/div[@class=&quot;vtex-flex-layout-0-x-flexCol vtex-flex-layout-0-x-flexCol--filterCol  ml0 mr0 pl0 pr0      flex flex-column h-100 w-100&quot;]/div[@class=&quot;vtex-flex-layout-0-x-flexColChild vtex-flex-layout-0-x-flexColChild--filterCol pb0&quot;]/div[@class=&quot;vtex-search-result-3-x-filters--layout&quot;]/div[@class=&quot;vtex-search-result-3-x-filtersWrapper&quot;]/div[@class=&quot;vtex-search-result-3-x-filter__container bb b--muted-4 vtex-search-result-3-x-filter__container--selectedFilters&quot;]/div[@class=&quot;vtex-search-result-3-x-filterTemplateOverflow pb5&quot;]/div[@class=&quot;vtex-search-result-3-x-filterItem vtex-search-result-3-x-filterItem--plateado vtex-search-result-3-x-selectedFilterItem lh-copy w-100 vtex-search-result-3-x-filterItem--selected&quot;]/div[@class=&quot;vtex-checkbox__line-container flex items-start relative pointer&quot;]/div[@class=&quot;vtex-checkbox__container relative w1 h1 mr3&quot;]/input[@id=&quot;color-plateado&quot;]' or . = '/html[1]/body[@class=&quot;bg-base&quot;]/div[@class=&quot;render-container render-route-vtex-store-2-x-store-custom-promocion-telefonia-iphone&quot;]/div[@class=&quot;render-provider&quot;]/div[@class=&quot;vtex-store__template bg-base&quot;]/div[@class=&quot;flex flex-column min-vh-100 w-100&quot;]/div[5]/div[@class=&quot;flex flex-grow-1 w-100 flex-column&quot;]/div[3]/div[@class=&quot;vtex-flex-layout-0-x-flexRow vtex-flex-layout-0-x-flexRow--outlet-global&quot;]/section[@class=&quot;vtex-store-components-3-x-container ph3 ph5-m ph2-xl mw9 center&quot;]/div[@class=&quot;flex mt0 mb0 pt0 pb0    justify-start vtex-flex-layout-0-x-flexRowContent vtex-flex-layout-0-x-flexRowContent--outlet-global items-stretch w-100&quot;]/div[@class=&quot;pr0 items-stretch vtex-flex-layout-0-x-stretchChildrenWidth   flex&quot;]/div[@class=&quot;mw9 center ph3-ns vtex-container-global-landing-outlet&quot;]/section[@class=&quot;vtex-store-components-3-x-container ph3 ph5-m ph2-xl mw9 center vtex-search-result-3-x-searchResultContainer pt3-m pt5-l&quot;]/div[@class=&quot;relative justify-center flex&quot;]/div[@class=&quot;vtex-search-result-3-x-loadingOverlay w-100 flex flex-column flex-grow-1 vtex-search-result-3-x-container--layout&quot;]/div[@class=&quot;vtex-flex-layout-0-x-flexRow&quot;]/div[@class=&quot;flex mt0 mb0 pt0 pb0    justify-start vtex-flex-layout-0-x-flexRowContent items-stretch w-100&quot;]/div[@class=&quot;pr0 items-stretch    flex&quot;]/div[@class=&quot;vtex-flex-layout-0-x-flexCol vtex-flex-layout-0-x-flexCol--filterCol  ml0 mr0 pl0 pr0      flex flex-column h-100 w-100&quot;]/div[@class=&quot;vtex-flex-layout-0-x-flexColChild vtex-flex-layout-0-x-flexColChild--filterCol pb0&quot;]/div[@class=&quot;vtex-search-result-3-x-filters--layout&quot;]/div[@class=&quot;vtex-search-result-3-x-filtersWrapper&quot;]/div[@class=&quot;vtex-search-result-3-x-filter__container bb b--muted-4 vtex-search-result-3-x-filter__container--selectedFilters&quot;]/div[@class=&quot;vtex-search-result-3-x-filterTemplateOverflow pb5&quot;]/div[@class=&quot;vtex-search-result-3-x-filterItem vtex-search-result-3-x-filterItem--plateado vtex-search-result-3-x-selectedFilterItem lh-copy w-100 vtex-search-result-3-x-filterItem--selected&quot;]/div[@class=&quot;vtex-checkbox__line-container flex items-start relative pointer&quot;]/div[@class=&quot;vtex-checkbox__container relative w1 h1 mr3&quot;]/input[@id=&quot;color-plateado&quot;]')]</value>
+      <webElementGuid>7017eb6d-6478-4266-9730-81df825d5a4c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

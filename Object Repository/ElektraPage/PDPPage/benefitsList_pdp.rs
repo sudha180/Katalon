@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>benefitsList_pdp</name>
+   <tag></tag>
+   <elementGuidId>9650c78e-6031-4b53-8a3c-eb25c03c799f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@class='elektra-elektra-components-0-x-benefitsList']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.elektra-elektra-components-0-x-benefitsContainer</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>bdef0e02-261d-4fc1-8681-6f263f6d92c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>elektra-elektra-components-0-x-benefitsContainer</value>
+      <webElementGuid>80128fc8-4bb7-44c2-8d6c-4a1f704622b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>home deliveryReturnPick up in storesatisfaction guarantee</value>
+      <webElementGuid>a593c816-67d3-4e36-8d0b-a8c3dffd6232</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;translated-ltr&quot;]/body[@class=&quot;bg-base&quot;]/div[@class=&quot;render-container render-route-store-product&quot;]/div[@class=&quot;render-provider&quot;]/div[@class=&quot;vtex-store__template bg-base&quot;]/div[@class=&quot;flex flex-column min-vh-100 w-100&quot;]/div[@class=&quot;vtex-product-context-provider&quot;]/div[@class=&quot;flex flex-column min-vh-100 w-100&quot;]/div[5]/div[@class=&quot;flex flex-grow-1 w-100 flex-column&quot;]/div[1]/div[@class=&quot;vtex-flex-layout-0-x-flexRow vtex-flex-layout-0-x-flexRow--prod-pag-usa&quot;]/section[@class=&quot;vtex-store-components-3-x-container ph3 ph5-m ph2-xl mw9 center&quot;]/div[@class=&quot;flex mt0 mb0 pt0 pb0    justify-start vtex-flex-layout-0-x-flexRowContent vtex-flex-layout-0-x-flexRowContent--prod-pag-usa items-stretch w-100&quot;]/div[@class=&quot;pr0 items-stretch vtex-flex-layout-0-x-stretchChildrenWidth   flex&quot;]/div[@class=&quot;vtex-flex-layout-0-x-flexCol vtex-flex-layout-0-x-flexCol--prod-pag-usa  ml0 mr0 pl0 pr0      flex flex-column h-100 w-100&quot;]/div[@class=&quot;vtex-flex-layout-0-x-flexColChild vtex-flex-layout-0-x-flexColChild--prod-pag-usa pb0&quot;]/div[@class=&quot;vtex-flex-layout-0-x-flexRow&quot;]/div[@class=&quot;flex mt4 mb0 pt0 pb0    justify-start vtex-flex-layout-0-x-flexRowContent items-stretch w-100&quot;]/div[@class=&quot;pr0 items-stretch vtex-flex-layout-0-x-stretchChildrenWidth   flex&quot;]/div[@class=&quot;vtex-flex-layout-0-x-flexCol vtex-flex-layout-0-x-flexCol--pdp-right-col  ml0 mr0 pl0 pr0      flex flex-column h-100 w-100&quot;]/div[@class=&quot;vtex-flex-layout-0-x-flexColChild vtex-flex-layout-0-x-flexColChild--pdp-right-col pb0&quot;]/div[@class=&quot;elektra-elektra-components-0-x-benefitsContainer&quot;]</value>
+      <webElementGuid>4e155620-11f2-452b-8bd8-28d93fcc3602</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your purchase is 100% protected'])[1]/following::div[6]</value>
+      <webElementGuid>23f6395a-e889-45e3-beea-69a93bc502be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add to cart'])[1]/following::div[11]</value>
+      <webElementGuid>85016adc-6fb8-439a-98e0-fa3f81378233</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[14]/div</value>
+      <webElementGuid>952dd4e7-a43a-4568-8f2f-e3d9df78eb8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'home deliveryReturnPick up in storesatisfaction guarantee' or . = 'home deliveryReturnPick up in storesatisfaction guarantee')]</value>
+      <webElementGuid>c84a58f2-c300-42ff-a96b-8883dd7a7413</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

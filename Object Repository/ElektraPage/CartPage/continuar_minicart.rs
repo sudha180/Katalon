@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>p_Departamentos</name>
+   <name>continuar_minicart</name>
    <tag></tag>
-   <elementGuidId>31924f13-fa19-47c7-991d-5c1d2bbc8106</elementGuidId>
+   <elementGuidId>1b24da1b-8cf4-44e6-b1ef-898e0614b5f5</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='menuDep']/div[2]/div/p</value>
+         <value>//button[@id='proceed-to-checkout']/div
+</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>div.depbox > p</value>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,87 +22,95 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>p</value>
-      <webElementGuid>1118ded2-a4dc-4de1-b744-7569289a6705</webElementGuid>
+      <value>div</value>
+      <webElementGuid>9faa4248-dda9-49e8-bf1a-373af0b5a0b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vtex-button__label flex items-center justify-center h-100 ph6 w-100 border-box </value>
+      <webElementGuid>3d75a567-410d-4f3b-b86e-9f74db84fa16</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Departamentos</value>
-      <webElementGuid>4a4cabe6-9016-40c2-a633-10b1c92ef305</webElementGuid>
+      <value>Ir al checkout</value>
+      <webElementGuid>6655aea2-78dc-4c75-9ba2-5d088a9c713e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;menuDep&quot;)/div[@class=&quot;container-dep&quot;]/div[@class=&quot;depbox&quot;]/p[1]</value>
-      <webElementGuid>1904e8ad-efa0-4430-9a6c-619e3c4f488a</webElementGuid>
+      <value>id(&quot;proceed-to-checkout&quot;)/div[@class=&quot;vtex-button__label flex items-center justify-center h-100 ph6 w-100 border-box&quot;]</value>
+      <webElementGuid>800769e5-7424-4ec5-ade4-42dd34f44710</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='menuDep']/div[2]/div/p</value>
-      <webElementGuid>7672c454-e043-4652-9fcd-6b20ecf2a7fb</webElementGuid>
+      <value>//button[@id='proceed-to-checkout']/div</value>
+      <webElementGuid>ef669df3-347e-4472-bfde-b06cb84cd791</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Entrar'])[1]/following::p[23]</value>
-      <webElementGuid>46941859-7509-442e-aa18-5b61bf00c7b5</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tasas y fletes calculados en el carrito'])[1]/following::div[6]</value>
+      <webElementGuid>7f5ec523-4035-4793-aa88-a2a6661cbea5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Inicia sesión'])[1]/following::p[23]</value>
-      <webElementGuid>4b1b97bb-ff31-4884-9f2c-bdbcfc97819b</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$38,999.00'])[2]/following::div[6]</value>
+      <webElementGuid>45a7eaad-0f7e-47be-b66b-b06f31eeaf98</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ingresa tu C.P.'])[1]/preceding::p[1]</value>
-      <webElementGuid>de5ad8b7-80e6-4435-9c41-48080dbb196a</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='✖'])[3]/preceding::div[3]</value>
+      <webElementGuid>063cba26-4473-4525-a2eb-fbdf083f2784</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ubica tu tienda'])[1]/preceding::p[1]</value>
-      <webElementGuid>3c69b485-04fe-4fb8-942c-24be7ed762a0</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='motos italika'])[1]/preceding::div[6]</value>
+      <webElementGuid>67747c09-b185-4a31-912f-336512dfc4b6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Departamentos']/parent::*</value>
-      <webElementGuid>cba2d677-2c4c-4002-b055-ab473d718fbc</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Ir al checkout']/parent::*</value>
+      <webElementGuid>5bf0ca8b-0d32-4dcd-9b2b-5bf19fbb5d9f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div/p</value>
-      <webElementGuid>ec5bd092-bfdc-425f-812c-c91b775dd3fd</webElementGuid>
+      <value>//div[2]/div/div/div/div/button/div</value>
+      <webElementGuid>474311c4-163f-451d-8a05-4c5e3a0538a5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//p[(text() = 'Departamentos' or . = 'Departamentos')]</value>
-      <webElementGuid>c37cad7b-1862-4b7d-8c61-13c5af0becec</webElementGuid>
+      <value>//div[(text() = 'Ir al checkout' or . = 'Ir al checkout')]</value>
+      <webElementGuid>8cdc8fb4-2462-4211-944d-8f921be1f9bb</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

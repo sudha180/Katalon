@@ -157,9 +157,9 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Elektra, Tu Fa
 
 WebUI.click(findTestObject('Object Repository/Page_Elektra, Tu Familia Vive Mejor/span_Comprar'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Elektra - Tienda en lnea/input_postalCode_checkout'), '09500')
+WebUI.setText(findTestObject('Object Repository/checkoutPage1/input_postalCode_checkout'), '09500')
 
-WebUI.click(findTestObject('Object Repository/Page_Elektra - Tienda en lnea/div_Buscar_checkout'))
+WebUI.click(findTestObject('Object Repository/checkoutPage1/div_Buscar_checkout'))
 
-WebUI.click(findTestObject('Object Repository/Page_Elektra - Tienda en lnea/div_Entregaremos tu carrito en el cdigo pos_1256e8'))
+WebUI.click(findTestObject('Object Repository/checkoutPage1/div_Entregaremos tu carrito en el cdigo pos_1256e8'))
 

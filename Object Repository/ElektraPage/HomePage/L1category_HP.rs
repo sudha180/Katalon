@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>L1category_HP</name>
+   <tag></tag>
+   <elementGuidId>61eebd9c-44a6-493a-b191-810c3a291909</elementGuidId>
+   <imagePath>Screenshots/Targets/Page_Elektra, Tu Familia Vive Mejor/L1category_HP.png</imagePath>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[@id='target']/div)[1]</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value>Screenshots/Targets/Page_Elektra, Tu Familia Vive Mejor/L1category_HP.png</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.labelData</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b7ad613d-fe45-44e2-bcdf-0d9370c58172</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>labelData</value>
+      <webElementGuid>fecfd2fd-c290-46fa-b66e-e860f5e12781</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Telefonía</value>
+      <webElementGuid>0bb77447-04b7-4519-b0ec-5a302fdb15ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menuDep&quot;)/div[1]/div[@class=&quot;menuBackground&quot;]/div[@class=&quot;containerMenu&quot;]/nav[@class=&quot;menu&quot;]/div[@class=&quot;menuAnimationContainer&quot;]/div[@class=&quot;containerDiv&quot;]/div[@class=&quot;categoryContainer&quot;]/div[@class=&quot;categoryDiv&quot;]/div[@class=&quot;category&quot;]/a[@id=&quot;target&quot;]/div[@class=&quot;labelData&quot;]</value>
+      <webElementGuid>b1a6554e-aa58-440e-ab12-fae04c596f38</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//a[@id='target']/div)[1]</value>
+      <webElementGuid>91927c54-73c4-417b-b162-5eece06929b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Entrar'])[1]/following::div[22]</value>
+      <webElementGuid>64d30e7b-d608-45c9-8e7a-be29a908ab2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Inicia sesión'])[1]/following::div[31]</value>
+      <webElementGuid>73d8192e-27d9-4059-b533-312c5a63c120</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Marcas'])[1]/preceding::div[44]</value>
+      <webElementGuid>03409516-382d-4987-a889-03cea438a19e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Samsung'])[1]/preceding::div[45]</value>
+      <webElementGuid>68fa1ce4-7704-4e65-a51f-2721b46bfd3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div</value>
+      <webElementGuid>74c9c3ed-fbfc-4175-827a-26683b4cd919</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Telefonía' or . = 'Telefonía')]</value>
+      <webElementGuid>5c284daf-1871-46db-be71-89ff6a37ffce</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

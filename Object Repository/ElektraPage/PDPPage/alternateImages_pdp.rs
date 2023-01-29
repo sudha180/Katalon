@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>alternateImages_pdp</name>
+   <tag></tag>
+   <elementGuidId>e48df0d8-1e25-42b8-aefe-146c17ef4acc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@class='vtex-store-components-3-x-carouselGaleryThumbs dn h-auto w-20 bottom-0 top-0 absolute left-0 db-ns']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>DIV</value>
+      <webElementGuid>1db80605-2e14-4559-9ca8-614a2afc9ca4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>xpath1674898196633</value>
+      <webElementGuid>bd73a81f-91d4-4c0c-994c-058e7a11c1ea</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

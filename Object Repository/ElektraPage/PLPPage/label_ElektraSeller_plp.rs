@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_ElektraSeller_plp</name>
+   <tag></tag>
+   <elementGuidId>27c1d830-544e-46cf-a98b-21068cad091d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[contains(text(),'Elektra')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.vtex-search-result-3-x-filterItem.vtex-search-result-3-x-filterItem--elektra.lh-copy.w-100 > div.vtex-checkbox__line-container.flex.items-start.relative.pointer > label.vtex-checkbox__label.w-100.c-on-base.pointer</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>e58be6d0-1295-4299-ade1-f685b6ab007d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vtex-checkbox__label w-100 c-on-base pointer</value>
+      <webElementGuid>ca3fd216-f074-4c4f-96a9-0bbd1536e125</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>sellername-elektra</value>
+      <webElementGuid>0bba7125-70d6-407c-bbab-cafb9f85c67d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Elektra</value>
+      <webElementGuid>5c028694-e94b-4302-bdfe-dc2d7aff0ccf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;bg-base&quot;]/div[@class=&quot;render-container render-route-vtex-store-2-x-store-custom-promocion-telefonia-iphone&quot;]/div[@class=&quot;render-provider&quot;]/div[@class=&quot;vtex-store__template bg-base&quot;]/div[@class=&quot;flex flex-column min-vh-100 w-100&quot;]/div[5]/div[@class=&quot;flex flex-grow-1 w-100 flex-column&quot;]/div[3]/div[@class=&quot;vtex-flex-layout-0-x-flexRow vtex-flex-layout-0-x-flexRow--outlet-global&quot;]/section[@class=&quot;vtex-store-components-3-x-container ph3 ph5-m ph2-xl mw9 center&quot;]/div[@class=&quot;flex mt0 mb0 pt0 pb0    justify-start vtex-flex-layout-0-x-flexRowContent vtex-flex-layout-0-x-flexRowContent--outlet-global items-stretch w-100&quot;]/div[@class=&quot;pr0 items-stretch vtex-flex-layout-0-x-stretchChildrenWidth   flex&quot;]/div[@class=&quot;mw9 center ph3-ns vtex-container-global-landing-outlet&quot;]/section[@class=&quot;vtex-store-components-3-x-container ph3 ph5-m ph2-xl mw9 center vtex-search-result-3-x-searchResultContainer pt3-m pt5-l&quot;]/div[@class=&quot;relative justify-center flex&quot;]/div[@class=&quot;vtex-search-result-3-x-loadingOverlay w-100 flex flex-column flex-grow-1 vtex-search-result-3-x-container--layout&quot;]/div[@class=&quot;vtex-flex-layout-0-x-flexRow&quot;]/div[@class=&quot;flex mt0 mb0 pt0 pb0    justify-start vtex-flex-layout-0-x-flexRowContent items-stretch w-100&quot;]/div[@class=&quot;pr0 items-stretch    flex&quot;]/div[@class=&quot;vtex-flex-layout-0-x-flexCol vtex-flex-layout-0-x-flexCol--filterCol  ml0 mr0 pl0 pr0      flex flex-column h-100 w-100&quot;]/div[@class=&quot;vtex-flex-layout-0-x-flexColChild vtex-flex-layout-0-x-flexColChild--filterCol pb0&quot;]/div[@class=&quot;vtex-search-result-3-x-filters--layout&quot;]/div[@class=&quot;vtex-search-result-3-x-filtersWrapper&quot;]/div[@class=&quot;vtex-search-result-3-x-filter__container bb b--muted-4 vtex-search-result-3-x-filter__container--sellername&quot;]/div[@class=&quot;vtex-search-result-3-x-filterTemplateOverflow pb5 overflow-y-auto&quot;]/div[1]/div[@class=&quot;vtex-search-result-3-x-filterContent&quot;]/div[@class=&quot;vtex-search-result-3-x-filterItem vtex-search-result-3-x-filterItem--elektra lh-copy w-100&quot;]/div[@class=&quot;vtex-checkbox__line-container flex items-start relative pointer&quot;]/label[@class=&quot;vtex-checkbox__label w-100 c-on-base pointer&quot;]</value>
+      <webElementGuid>d6e456c2-a872-4eaa-a889-643910e3e38c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='sellerName'])[1]/following::label[1]</value>
+      <webElementGuid>48eedda4-a26e-466a-896e-c856a95998be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='APPLE'])[1]/following::label[1]</value>
+      <webElementGuid>8b20beda-2dd9-485c-b79f-c22a8a42156d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Color'])[1]/preceding::label[1]</value>
+      <webElementGuid>28b2f2d0-14dc-46b4-bae0-6dd7813d151d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Plateado'])[1]/preceding::label[1]</value>
+      <webElementGuid>5bb2c08a-b080-4813-8484-690359de46b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Elektra']/parent::*</value>
+      <webElementGuid>2e58addb-ab40-419d-9aa1-9a458007b5b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div[2]/div/div/div/div/label</value>
+      <webElementGuid>1f0f39be-4339-4e4b-96b5-d802dcc5c9d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Elektra' or . = 'Elektra')]</value>
+      <webElementGuid>006d3168-001f-4302-99e9-f24b971df165</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

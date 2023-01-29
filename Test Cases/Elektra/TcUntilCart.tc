@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TcUntilCart</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>04dab10c-246f-4f0a-8477-a9fc4fcc0342</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4df433fb-94d0-4c14-8747-5f5cba488bbc</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e9b81909-b973-4a12-9cef-3a3c451627f1</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4df433fb-94d0-4c14-8747-5f5cba488bbc</id>
+      <masked>false</masked>
+      <name>checkoutUrl</name>
+   </variable>
+   <variable>
+      <defaultValue>'https://www.elektra.mx/checkout/cart'</defaultValue>
+      <description></description>
+      <id>e9b81909-b973-4a12-9cef-3a3c451627f1</id>
+      <masked>false</masked>
+      <name>expectedCheckoutUrl</name>
+   </variable>
+</TestCaseEntity>

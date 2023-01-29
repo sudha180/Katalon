@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>footer_clp</name>
+   <tag></tag>
+   <elementGuidId>5bcde158-1759-42d1-bb30-231cffd48813</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@class='vtex-store-footer-2-x-footerLayout']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.flex.mt0.mb0.pt6.pb3.justify-start.vtex-flex-layout-0-x-flexRowContent.vtex-flex-layout-0-x-flexRowContent--menu-row.items-stretch.w-100</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9b830587-1964-4240-bab9-636014aa9e93</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex mt0 mb0 pt6 pb3    justify-start vtex-flex-layout-0-x-flexRowContent vtex-flex-layout-0-x-flexRowContent--menu-row items-stretch w-100</value>
+      <webElementGuid>ccf292f8-3617-4bf5-8393-154644a61b24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Contáctanos55 7577 5547Ventas y servicio al cliente: Lunes a Domingo 9:00am a 9:00pmcontacto@elektra.mxSíguenosAyudaCentro de ayuda¿Cómo comprar?Envíos y devolucionesServiciosFacturación ElectrónicaDescarga App Banco AztecaRecibe dinero del extranjeroCrédito Banco AztecaAcerca de ElektraHot SaleElektra en los mediosBuscador de tiendasEl Mejor Fin está en Elektra</value>
+      <webElementGuid>11787adb-5307-4900-88a3-87da3410ba45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;bg-base&quot;]/div[@class=&quot;render-container render-route-vtex-store-2-x-store-custom-category-telefonia&quot;]/div[@class=&quot;render-provider&quot;]/div[@class=&quot;vtex-store__template bg-base&quot;]/div[@class=&quot;flex flex-column min-vh-100 w-100&quot;]/div[8]/div[1]/div[@class=&quot;vtex-store-footer-2-x-footerLayout&quot;]/div[@class=&quot;vtex-flex-layout-0-x-flexRow vtex-flex-layout-0-x-flexRow--menu-row&quot;]/section[@class=&quot;vtex-store-components-3-x-container ph3 ph5-m ph2-xl mw9 center&quot;]/div[@class=&quot;flex mt0 mb0 pt6 pb3    justify-start vtex-flex-layout-0-x-flexRowContent vtex-flex-layout-0-x-flexRowContent--menu-row items-stretch w-100&quot;]</value>
+      <webElementGuid>04835f5d-1c42-4a1f-b675-2b21ea179b1e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aviso de Privacidad'])[1]/following::div[2]</value>
+      <webElementGuid>c2fb0047-12e5-437b-8768-7c4700f55761</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/section/div</value>
+      <webElementGuid>8e738535-7112-4660-9cce-6f01aef24a42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Contáctanos55 7577 5547Ventas y servicio al cliente: Lunes a Domingo 9:00am a 9:00pmcontacto@elektra.mxSíguenosAyudaCentro de ayuda¿Cómo comprar?Envíos y devolucionesServiciosFacturación ElectrónicaDescarga App Banco AztecaRecibe dinero del extranjeroCrédito Banco AztecaAcerca de ElektraHot SaleElektra en los mediosBuscador de tiendasEl Mejor Fin está en Elektra' or . = 'Contáctanos55 7577 5547Ventas y servicio al cliente: Lunes a Domingo 9:00am a 9:00pmcontacto@elektra.mxSíguenosAyudaCentro de ayuda¿Cómo comprar?Envíos y devolucionesServiciosFacturación ElectrónicaDescarga App Banco AztecaRecibe dinero del extranjeroCrédito Banco AztecaAcerca de ElektraHot SaleElektra en los mediosBuscador de tiendasEl Mejor Fin está en Elektra')]</value>
+      <webElementGuid>7cb1ea77-e364-48a0-8ac5-51a8b02f6eb0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

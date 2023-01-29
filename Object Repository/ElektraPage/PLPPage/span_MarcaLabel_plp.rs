@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_MarcaLabel_plp</name>
+   <tag></tag>
+   <elementGuidId>576d4b31-ab0a-40f4-958d-9f7a78c11712</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Telefonía Libre'])[1]/following::span[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.vtex-search-result-3-x-filter__container.bb.b--muted-4.vtex-search-result-3-x-filter__container--brand > div.vtex-search-result-3-x-filter.pv5.vtex-search-result-3-x-filterAvailable.vtex-search-result-3-x-filterIsOpen > div.pointer > div.vtex-search-result-3-x-filterTitle.f5.flex.items-center.justify-between > span.vtex-search-result-3-x-filterTitleSpan</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7ef6e160-8f94-41dd-b2d6-f36b02a02dbd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vtex-search-result-3-x-filterTitleSpan</value>
+      <webElementGuid>68744100-51cf-4f4d-b3bb-a6d9e73f14c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Marca</value>
+      <webElementGuid>7dfbab39-b762-4827-86d7-96940605c668</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;bg-base&quot;]/div[@class=&quot;render-container render-route-vtex-store-2-x-store-custom-promocion-telefonia-iphone&quot;]/div[@class=&quot;render-provider&quot;]/div[@class=&quot;vtex-store__template bg-base&quot;]/div[@class=&quot;flex flex-column min-vh-100 w-100&quot;]/div[5]/div[@class=&quot;flex flex-grow-1 w-100 flex-column&quot;]/div[3]/div[@class=&quot;vtex-flex-layout-0-x-flexRow vtex-flex-layout-0-x-flexRow--outlet-global&quot;]/section[@class=&quot;vtex-store-components-3-x-container ph3 ph5-m ph2-xl mw9 center&quot;]/div[@class=&quot;flex mt0 mb0 pt0 pb0    justify-start vtex-flex-layout-0-x-flexRowContent vtex-flex-layout-0-x-flexRowContent--outlet-global items-stretch w-100&quot;]/div[@class=&quot;pr0 items-stretch vtex-flex-layout-0-x-stretchChildrenWidth   flex&quot;]/div[@class=&quot;mw9 center ph3-ns vtex-container-global-landing-outlet&quot;]/section[@class=&quot;vtex-store-components-3-x-container ph3 ph5-m ph2-xl mw9 center vtex-search-result-3-x-searchResultContainer pt3-m pt5-l&quot;]/div[@class=&quot;relative justify-center flex&quot;]/div[@class=&quot;vtex-search-result-3-x-loadingOverlay w-100 flex flex-column flex-grow-1 vtex-search-result-3-x-container--layout&quot;]/div[@class=&quot;vtex-flex-layout-0-x-flexRow&quot;]/div[@class=&quot;flex mt0 mb0 pt0 pb0    justify-start vtex-flex-layout-0-x-flexRowContent items-stretch w-100&quot;]/div[@class=&quot;pr0 items-stretch    flex&quot;]/div[@class=&quot;vtex-flex-layout-0-x-flexCol vtex-flex-layout-0-x-flexCol--filterCol  ml0 mr0 pl0 pr0      flex flex-column h-100 w-100&quot;]/div[@class=&quot;vtex-flex-layout-0-x-flexColChild vtex-flex-layout-0-x-flexColChild--filterCol pb0&quot;]/div[@class=&quot;vtex-search-result-3-x-filters--layout&quot;]/div[@class=&quot;vtex-search-result-3-x-filtersWrapper&quot;]/div[@class=&quot;vtex-search-result-3-x-filter__container bb b--muted-4 vtex-search-result-3-x-filter__container--brand&quot;]/div[@class=&quot;vtex-search-result-3-x-filter pv5 vtex-search-result-3-x-filterAvailable vtex-search-result-3-x-filterIsOpen&quot;]/div[@class=&quot;pointer&quot;]/div[@class=&quot;vtex-search-result-3-x-filterTitle f5 flex items-center justify-between&quot;]/span[@class=&quot;vtex-search-result-3-x-filterTitleSpan&quot;]</value>
+      <webElementGuid>eb2542b0-2d8d-41b9-950b-16f5375ba4e9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Telefonía Libre'])[1]/following::span[1]</value>
+      <webElementGuid>3807efb3-9bbb-4dc7-a339-de62712e782e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sub-Categoría'])[1]/following::span[2]</value>
+      <webElementGuid>26629769-6a1c-48db-94c2-9045707abac9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='APPLE'])[1]/preceding::span[2]</value>
+      <webElementGuid>a40f3aef-36ba-41e1-8dcf-6b5452b724f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='sellerName'])[1]/preceding::span[2]</value>
+      <webElementGuid>23d5a779-6873-4e34-b110-c948d833f726</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Marca']/parent::*</value>
+      <webElementGuid>3308f014-87fd-48f3-a572-4714bd0d36cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/div/span</value>
+      <webElementGuid>5aac0ccf-4220-45ec-86fa-532cfafee5f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Marca' or . = 'Marca')]</value>
+      <webElementGuid>9dfcaaa8-4671-49fe-a7d8-40c41f63ac25</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

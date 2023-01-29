@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>bagIcon_header</name>
+   <tag></tag>
+   <elementGuidId>74b4ba7b-aefb-4710-8418-f398cd136b13</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@class='vtex-minicart-2-x-minicartContainer flex flex-column']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.vtex-minicart-2-x-minicartQuantityBadge.vtex-minicart-2-x-minicartQuantityBadgeDefault.c-on-emphasis.absolute.t-mini.bg-emphasis.br4.w1.h1.pa1.flex.justify-center.items-center.lh-solid</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>48d895e9-2f1f-4e14-95ba-f6f3b6413a3f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vtex-minicart-2-x-minicartQuantityBadge vtex-minicart-2-x-minicartQuantityBadgeDefault c-on-emphasis absolute t-mini bg-emphasis br4 w1 h1 pa1 flex justify-center items-center lh-solid</value>
+      <webElementGuid>f019f8cb-a988-44d1-b0fa-fe66db2cdbd1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>f5b3788d-66de-4d70-9d16-1119a73a7d42</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;bg-base&quot;]/div[@class=&quot;render-container render-route-store-product&quot;]/div[@class=&quot;render-provider&quot;]/div[@class=&quot;vtex-store__template bg-base&quot;]/div[@class=&quot;flex flex-column min-vh-100 w-100&quot;]/div[@class=&quot;vtex-product-context-provider&quot;]/div[@class=&quot;flex flex-column min-vh-100 w-100&quot;]/div[@class=&quot;vtex-sticky-layout-0-x-wrapper vtex-sticky-layout-0-x-wrapper--sticky-header-1&quot;]/div[@class=&quot;vtex-sticky-layout-0-x-container vtex-sticky-layout-0-x-container--sticky-header-1 z-999 relative left-0 right-0&quot;]/div[@class=&quot;vtex-flex-layout-0-x-flexRow vtex-flex-layout-0-x-flexRow--menu-link&quot;]/div[@class=&quot;flex mt0 mb0 pt0 pb0    justify-center vtex-flex-layout-0-x-flexRowContent vtex-flex-layout-0-x-flexRowContent--menu-link items-stretch w-100&quot;]/div[@class=&quot;pr0     flex&quot;]/div[@class=&quot;vtex-flex-layout-0-x-flexRow&quot;]/div[@class=&quot;flex mt0 mb0 pt0 pb0    justify-start vtex-flex-layout-0-x-flexRowContent items-stretch w-100&quot;]/div[@class=&quot;pr0 items-stretch vtex-flex-layout-0-x-stretchChildrenWidth   flex&quot;]/aside[@class=&quot;vtex-minicart-2-x-minicartWrapperContainer relative fr flex items-center&quot;]/div[@class=&quot;vtex-minicart-2-x-minicartContainer flex flex-column&quot;]/div[@class=&quot;pa4 pointer vtex-minicart-2-x-openIconContainer&quot;]/button[@class=&quot;vtex-button bw1 ba fw5 v-mid relative pa0 lh-solid br2 min-h-regular t-action icon-button dib bg-transparent b--transparent c-action-primary hover-b--transparent hover-bg-action-secondary hover-b--action-secondary pointer&quot;]/div[@class=&quot;vtex-button__label flex items-center justify-center h-100 ph4&quot;]/span[@class=&quot;vtex-minicart-2-x-minicartIconContainer gray relative&quot;]/span[@class=&quot;vtex-minicart-2-x-minicartQuantityBadge vtex-minicart-2-x-minicartQuantityBadgeDefault c-on-emphasis absolute t-mini bg-emphasis br4 w1 h1 pa1 flex justify-center items-center lh-solid&quot;]</value>
+      <webElementGuid>effb0b5d-f4f9-413e-95dd-149b99fb3eaa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hola, sudha'])[1]/following::span[2]</value>
+      <webElementGuid>9086b733-e26c-46f0-a079-9e8a12d853ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='sudha'])[1]/following::span[4]</value>
+      <webElementGuid>d17f1ff5-c85b-448e-8083-9ab0a9bac616</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ingresa tu C.P.'])[1]/preceding::span[1]</value>
+      <webElementGuid>82dbbe9d-ac44-4912-ac00-1b6a958c14fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ubica tu tienda'])[1]/preceding::span[2]</value>
+      <webElementGuid>7e13db90-5757-494d-b91f-8d6a87c72c52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='1']/parent::*</value>
+      <webElementGuid>5823be0c-f6b6-430a-bb88-485c39f639e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/span</value>
+      <webElementGuid>a7c7f9c2-ac89-4a53-8855-a6de0daf0824</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '1' or . = '1')]</value>
+      <webElementGuid>41de1517-6afc-4f9e-bba4-02b0b9d1c3fb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_ColorFilter_plp</name>
+   <tag></tag>
+   <elementGuidId>34e43363-b525-42fe-98e7-b9f88c092d43</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Elektra'])[1]/following::span[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.vtex-search-result-3-x-filter__container.bb.b--muted-4.vtex-search-result-3-x-filter__container--color > div.vtex-search-result-3-x-filter.pv5.vtex-search-result-3-x-filterAvailable.vtex-search-result-3-x-filterIsOpen > div.pointer > div.vtex-search-result-3-x-filterTitle.f5.flex.items-center.justify-between > span.vtex-search-result-3-x-filterTitleSpan</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c61f3f66-acca-43d3-b9ac-072f22d031fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vtex-search-result-3-x-filterTitleSpan</value>
+      <webElementGuid>2abbc741-abc4-4484-8fa3-401cde30d10c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Color</value>
+      <webElementGuid>e2e5daa1-f498-4dc9-9a68-87443f22694f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;bg-base&quot;]/div[@class=&quot;render-container render-route-vtex-store-2-x-store-custom-promocion-telefonia-iphone&quot;]/div[@class=&quot;render-provider&quot;]/div[@class=&quot;vtex-store__template bg-base&quot;]/div[@class=&quot;flex flex-column min-vh-100 w-100&quot;]/div[5]/div[@class=&quot;flex flex-grow-1 w-100 flex-column&quot;]/div[3]/div[@class=&quot;vtex-flex-layout-0-x-flexRow vtex-flex-layout-0-x-flexRow--outlet-global&quot;]/section[@class=&quot;vtex-store-components-3-x-container ph3 ph5-m ph2-xl mw9 center&quot;]/div[@class=&quot;flex mt0 mb0 pt0 pb0    justify-start vtex-flex-layout-0-x-flexRowContent vtex-flex-layout-0-x-flexRowContent--outlet-global items-stretch w-100&quot;]/div[@class=&quot;pr0 items-stretch vtex-flex-layout-0-x-stretchChildrenWidth   flex&quot;]/div[@class=&quot;mw9 center ph3-ns vtex-container-global-landing-outlet&quot;]/section[@class=&quot;vtex-store-components-3-x-container ph3 ph5-m ph2-xl mw9 center vtex-search-result-3-x-searchResultContainer pt3-m pt5-l&quot;]/div[@class=&quot;relative justify-center flex&quot;]/div[@class=&quot;vtex-search-result-3-x-loadingOverlay w-100 flex flex-column flex-grow-1 vtex-search-result-3-x-container--layout&quot;]/div[@class=&quot;vtex-flex-layout-0-x-flexRow&quot;]/div[@class=&quot;flex mt0 mb0 pt0 pb0    justify-start vtex-flex-layout-0-x-flexRowContent items-stretch w-100&quot;]/div[@class=&quot;pr0 items-stretch    flex&quot;]/div[@class=&quot;vtex-flex-layout-0-x-flexCol vtex-flex-layout-0-x-flexCol--filterCol  ml0 mr0 pl0 pr0      flex flex-column h-100 w-100&quot;]/div[@class=&quot;vtex-flex-layout-0-x-flexColChild vtex-flex-layout-0-x-flexColChild--filterCol pb0&quot;]/div[@class=&quot;vtex-search-result-3-x-filters--layout&quot;]/div[@class=&quot;vtex-search-result-3-x-filtersWrapper&quot;]/div[@class=&quot;vtex-search-result-3-x-filter__container bb b--muted-4 vtex-search-result-3-x-filter__container--color&quot;]/div[@class=&quot;vtex-search-result-3-x-filter pv5 vtex-search-result-3-x-filterAvailable vtex-search-result-3-x-filterIsOpen&quot;]/div[@class=&quot;pointer&quot;]/div[@class=&quot;vtex-search-result-3-x-filterTitle f5 flex items-center justify-between&quot;]/span[@class=&quot;vtex-search-result-3-x-filterTitleSpan&quot;]</value>
+      <webElementGuid>8a96aedc-18bf-4942-b01e-553e7e7f77f1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Elektra'])[1]/following::span[1]</value>
+      <webElementGuid>7b771d02-66e5-4cc1-bda2-f94ae8686a47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='sellerName'])[1]/following::span[2]</value>
+      <webElementGuid>bc7c6e5e-5820-4459-91c2-7dd9d4700d54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Plateado'])[1]/preceding::span[2]</value>
+      <webElementGuid>1cae155c-ee0f-435d-a694-d1c6ee614a22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rojo'])[1]/preceding::span[2]</value>
+      <webElementGuid>8c759a64-b0fe-447c-8b6b-6d21d26a2005</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Color']/parent::*</value>
+      <webElementGuid>f49416fd-1d63-4c84-9057-99035992912b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/div/div/span</value>
+      <webElementGuid>3099bb1f-9852-4056-93dd-cd34cb1171e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Color' or . = 'Color')]</value>
+      <webElementGuid>8a12e804-0101-4ece-a1fe-0e098d5f5617</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

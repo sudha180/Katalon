@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>verifyEmailDisabled_checkout</name>
+   <tag></tag>
+   <elementGuidId>b8676153-22dd-4ea7-8188-e32fc33ad45b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@class='breadcrumb_Tab__2S-ws breadcrumb_false__2fqWs undefined']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>DIV</value>
+      <webElementGuid>202d7dbd-f9eb-463a-8640-c3fb2f4d5f20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>xpath1674903871362</value>
+      <webElementGuid>7e78b37f-eb45-4f38-a225-61b3ad224dbc</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

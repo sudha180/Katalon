@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>emiAmount_plp</name>
+   <tag></tag>
+   <elementGuidId>e766afa6-07ef-4623-9785-169baf81bbcf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='gallery-layout-container']/div/section/a/article/div[2]/div[4]/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.vtex-credito.f6.lh-copy.items-start</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>404db883-0fb5-4dc9-b9c1-11cae6bb39ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vtex-credito f6 lh-copy items-start</value>
+      <webElementGuid>2b886a96-963d-426a-9b95-1ef8290c72f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>$640 semanales con</value>
+      <webElementGuid>74c3cc72-e977-416b-94b4-6763aecb6c7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;gallery-layout-container&quot;)/div[@class=&quot;vtex-search-result-3-x-galleryItem vtex-search-result-3-x-galleryItem--normal vtex-search-result-3-x-galleryItem--grid pa4&quot;]/section[@class=&quot;vtex-product-summary-2-x-container vtex-product-summary-2-x-container--customPricePlp vtex-product-summary-2-x-container--OutletProductsNotAvailable vtex-product-summary-2-x-containerNormal vtex-product-summary-2-x-containerNormal--customPricePlp vtex-product-summary-2-x-containerNormal--OutletProductsNotAvailable overflow-hidden br3 h-100 w-100 flex flex-column justify-between center tc&quot;]/a[@class=&quot;vtex-product-summary-2-x-clearLink vtex-product-summary-2-x-clearLink--customPricePlp vtex-product-summary-2-x-clearLink--OutletProductsNotAvailable h-100 flex flex-column&quot;]/article[@class=&quot;vtex-product-summary-2-x-element vtex-product-summary-2-x-element--customPricePlp vtex-product-summary-2-x-element--OutletProductsNotAvailable pointer pt3 pb4 flex flex-column h-100&quot;]/div[@class=&quot;vtex-flex-layout-0-x-flexCol vtex-flex-layout-0-x-flexCol--product-description-container  ml0 mr0 pl0 pr0      flex flex-column h-100 w-100&quot;]/div[@class=&quot;vtex-flex-layout-0-x-flexColChild vtex-flex-layout-0-x-flexColChild--product-description-container pb0&quot;]/div[@class=&quot;flex flex-column items-start credito-vitrina-container&quot;]/p[@class=&quot;vtex-credito f6 lh-copy items-start&quot;]</value>
+      <webElementGuid>5b8ca898-ea9f-4b40-b8c6-3e6797ff6841</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='gallery-layout-container']/div/section/a/article/div[2]/div[4]/div/p</value>
+      <webElementGuid>2ce6c394-3868-44cc-88ec-d39d6a203c56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$38,999'])[1]/following::p[1]</value>
+      <webElementGuid>520a5a91-b0a6-4626-9ab5-ebd80cdbd629</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='iPhone 14 Pro 1TB Libre Deep Purple'])[1]/following::p[2]</value>
+      <webElementGuid>fe6c5280-7dc2-4f44-8b49-d29d26d7d090</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='iPhone 14 Pro 1TB Libre Negro Espacial'])[1]/preceding::p[4]</value>
+      <webElementGuid>76172e30-fd78-4851-a564-697106d37f86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$38,999'])[2]/preceding::p[5]</value>
+      <webElementGuid>83cff7c0-effa-4c65-965a-becce6113bd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='$']/parent::*</value>
+      <webElementGuid>bb870aae-15c8-4e1b-8b81-795c4a9fdb62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/p</value>
+      <webElementGuid>3b20e58d-4650-4f79-bb83-c93ca8a1ba76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = '$640 semanales con' or . = '$640 semanales con')]</value>
+      <webElementGuid>bc2e899c-428e-418a-9d46-994bea9d40b5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

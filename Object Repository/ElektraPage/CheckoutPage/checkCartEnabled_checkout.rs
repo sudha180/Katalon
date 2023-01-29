@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>checkCartEnabled_checkout</name>
+   <tag></tag>
+   <elementGuidId>f6dbdf1b-7ce4-45dc-8bba-734a76690ed1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@class='breadcrumb_Tab__2S-ws breadcrumb_true__2YWpY undefined']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.breadcrumb_Tab__2S-ws.breadcrumb_true__2YWpY.undefined</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>dc299940-0100-4f09-82ca-0722fc4777e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>breadcrumb_Tab__2S-ws breadcrumb_true__2YWpY undefined</value>
+      <webElementGuid>40517db0-48bc-40f2-9c7b-8104c22a4fae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1Verifica tu carritocart-checkout</value>
+      <webElementGuid>320adb20-94d8-4493-9f8f-e2cafdeb3d87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;breadcrumb_Breadcrumb__1MIZI&quot;)/div[@class=&quot;breadcrumb_Tab__2S-ws breadcrumb_true__2YWpY undefined&quot;]</value>
+      <webElementGuid>bbfb538b-26a6-4c87-a5be-60656e033a0e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='breadcrumb_Breadcrumb__1MIZI']/div</value>
+      <webElementGuid>6c5f1783-9b00-426c-a9f5-f4b063ae484f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Llama para comprar'])[1]/following::div[1]</value>
+      <webElementGuid>2e446f7f-ad0e-4fb4-aaa7-629d1b32bebe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ingresa tu correo'])[1]/preceding::div[1]</value>
+      <webElementGuid>1c6d0b2e-b9f5-4472-8d35-affb231c8d23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div</value>
+      <webElementGuid>5d4217a9-0673-4de6-92a0-e60c75604cef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '1Verifica tu carritocart-checkout' or . = '1Verifica tu carritocart-checkout')]</value>
+      <webElementGuid>868d87c5-cfa1-41b9-8c8f-5a1376978d09</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>productSellingPrice_plp</name>
+   <tag></tag>
+   <elementGuidId>2831d6df-db78-4bf7-a5df-74393a0bf9ff</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//span[@class='vtex-store-components-3-x-sellingPrice vtex-store-components-3-x-sellingPriceValue t-heading-2-s dib ph2 vtex-store-components-3-x-price_sellingPrice vtex-store-components-3-x-price_sellingPrice--summary']//span)[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7dc72bb9-b0b3-459b-be47-26929e1ce5a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>$38,999</value>
+      <webElementGuid>165be3d2-8e41-42bd-8489-f6f99afea4f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;gallery-layout-container&quot;)/div[@class=&quot;vtex-search-result-3-x-galleryItem vtex-search-result-3-x-galleryItem--normal vtex-search-result-3-x-galleryItem--grid pa4&quot;]/section[@class=&quot;vtex-product-summary-2-x-container vtex-product-summary-2-x-container--customPricePlp vtex-product-summary-2-x-container--OutletProductsNotAvailable vtex-product-summary-2-x-containerNormal vtex-product-summary-2-x-containerNormal--customPricePlp vtex-product-summary-2-x-containerNormal--OutletProductsNotAvailable overflow-hidden br3 h-100 w-100 flex flex-column justify-between center tc&quot;]/a[@class=&quot;vtex-product-summary-2-x-clearLink vtex-product-summary-2-x-clearLink--customPricePlp vtex-product-summary-2-x-clearLink--OutletProductsNotAvailable h-100 flex flex-column&quot;]/article[@class=&quot;vtex-product-summary-2-x-element vtex-product-summary-2-x-element--customPricePlp vtex-product-summary-2-x-element--OutletProductsNotAvailable pointer pt3 pb4 flex flex-column h-100&quot;]/div[@class=&quot;vtex-flex-layout-0-x-flexCol vtex-flex-layout-0-x-flexCol--product-description-container  ml0 mr0 pl0 pr0      flex flex-column h-100 w-100&quot;]/div[@class=&quot;vtex-flex-layout-0-x-flexColChild vtex-flex-layout-0-x-flexColChild--product-description-container pb0&quot;]/div[@class=&quot;vtex-flex-layout-0-x-flexRow vtex-flex-layout-0-x-flexRow--flags-price&quot;]/div[@class=&quot;flex mt0 mb0 pt0 pb0    justify-between vtex-flex-layout-0-x-flexRowContent vtex-flex-layout-0-x-flexRowContent--flags-price items-stretch w-100&quot;]/div[@class=&quot;pr0 items-stretch vtex-flex-layout-0-x-stretchChildrenWidth   flex&quot;]/div[@class=&quot;vtex-store-components--price-custom-container vtex-store-components-3-x-priceContainer vtex-store-components-3-x-price_className vtex-store-components-3-x-price_className--summary vtex-store-components-3-x-price_className--price-block vtex-store-components-priceContainerstyle&quot;]/div[@class=&quot;vtex-store-components-3-x-sellingPrice vtex-store-components-3-x-sellingPriceContainer b c-on-base vtex-store-components-3-x-price_sellingPriceContainer vtex-store-components-3-x-price_sellingPriceContainer--summary&quot;]/span[@class=&quot;vtex-store-components-3-x-sellingPrice vtex-store-components-3-x-sellingPriceValue t-heading-2-s dib ph2 vtex-store-components-3-x-price_sellingPrice vtex-store-components-3-x-price_sellingPrice--summary&quot;]/span[@class=&quot;vtex-store-components-3-x-currencyContainer vtex-store-components-3-x-currencyContainer--summary t-heading-2-s&quot;]/span[1]</value>
+      <webElementGuid>32011247-d3ca-4c4e-886c-d21f46805e68</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='gallery-layout-container']/div/section/a/article/div[2]/div[3]/div/div/div/div/div/span/span/span</value>
+      <webElementGuid>64de2d7f-a54f-4da4-9ead-c54d554f2922</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='iPhone 14 Pro 1TB Libre Deep Purple'])[1]/following::span[3]</value>
+      <webElementGuid>288eb38c-3035-40a6-bcb8-e8e0cfba1521</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nombre, decreciente'])[1]/following::span[4]</value>
+      <webElementGuid>e456590a-baab-4f09-846f-2b05c8b482d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='iPhone 14 Pro 1TB Libre Negro Espacial'])[1]/preceding::span[1]</value>
+      <webElementGuid>8f0e2010-a5fa-4f2d-9cce-070b381ab8fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$38,999'])[2]/preceding::span[2]</value>
+      <webElementGuid>a3b5a5f1-0885-4397-a67b-c8769de4d432</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='$38,999']/parent::*</value>
+      <webElementGuid>8c867900-a90e-423f-bf2b-313c9dac96c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/span/span</value>
+      <webElementGuid>e8b30942-c93a-4dbd-b271-5699b9255fdd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '$38,999' or . = '$38,999')]</value>
+      <webElementGuid>0ddd6b27-39da-439e-a2ab-a4599b01296c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

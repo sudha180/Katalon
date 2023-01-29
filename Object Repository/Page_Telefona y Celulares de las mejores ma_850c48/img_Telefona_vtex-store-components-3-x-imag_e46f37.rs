@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Telefona_vtex-store-components-3-x-imag_e46f37</name>
+   <tag></tag>
+   <elementGuidId>489cdb5c-786b-4d77-94d5-97bf5665ee5d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[@alt='Conectividad_Telefonía_Motorola_Moto_G22_128GB_Libre_W03_Dpto_1 _W02_Dpto_1']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.vtex-store-components-3-x-imageElement.vtex-store-components-3-x-imageElement--image-banner-big</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>d01af9b5-7884-4b9c-95d9-2f79c8f238de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://elektra.vtexassets.com/assets/vtex.file-manager-graphql/images/767ae2a9-7e6c-4219-9596-554cda10a1ea___ff27ccbfbf4f7c942423dcbb7b016f74.webp</value>
+      <webElementGuid>b235b706-5b86-4caa-a0af-bf4a790ed85e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Conectividad_Telefonía_Motorola_Moto_G22_128GB_Libre_W03_Dpto_1 _W02_Dpto_1</value>
+      <webElementGuid>83a20138-1381-4186-8246-01072b72658d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vtex-store-components-3-x-imageElement vtex-store-components-3-x-imageElement--image-banner-big</value>
+      <webElementGuid>e4fcedf1-7961-4595-ad45-c91866c06962</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>crossorigin</name>
+      <type>Main</type>
+      <value>anonymous</value>
+      <webElementGuid>0b9171d9-b500-4e32-9449-3ac4c81aae5d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;bg-base&quot;]/div[@class=&quot;render-container render-route-vtex-store-2-x-store-custom-category-telefonia&quot;]/div[@class=&quot;render-provider&quot;]/div[@class=&quot;vtex-store__template bg-base&quot;]/div[@class=&quot;flex flex-column min-vh-100 w-100&quot;]/div[5]/div[@class=&quot;flex flex-grow-1 w-100 flex-column&quot;]/div[4]/div[@class=&quot;vtex-flex-layout-0-x-flexRow vtex-flex-layout-0-x-flexRow--row-elektra vtex-flex-layout-0-x-flexRow--row-departament&quot;]/section[@class=&quot;vtex-store-components-3-x-container ph3 ph5-m ph2-xl mw9 center&quot;]/div[@class=&quot;flex mt0 mb0 pt0 pb0    justify-start vtex-flex-layout-0-x-flexRowContent vtex-flex-layout-0-x-flexRowContent--row-elektra vtex-flex-layout-0-x-flexRowContent--row-departament items-stretch w-100&quot;]/div[@class=&quot;pr4 items-stretch vtex-flex-layout-0-x-stretchChildrenWidth   flex&quot;]/div[@class=&quot;vtex-flex-layout-0-x-flexRow vtex-flex-layout-0-x-flexRow--col-images-banner&quot;]/div[@class=&quot;flex mt0 mb0 pt0 pb0    justify-start vtex-flex-layout-0-x-flexRowContent vtex-flex-layout-0-x-flexRowContent--col-images-banner items-stretch w-100&quot;]/div[@class=&quot;pr0 items-stretch vtex-flex-layout-0-x-stretchChildrenWidth   flex&quot;]/a[@class=&quot;vtex-store-components-3-x-imageElementLink vtex-store-components-3-x-imageElementLink--image-banner-big&quot;]/img[@class=&quot;vtex-store-components-3-x-imageElement vtex-store-components-3-x-imageElement--image-banner-big&quot;]</value>
+      <webElementGuid>5c74c668-f78f-491f-b69e-9f833f5f671a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Conectividad_Telefonía_Motorola_Moto_G22_128GB_Libre_W03_Dpto_1 _W02_Dpto_1']</value>
+      <webElementGuid>9a388f95-1441-4c11-8be2-4deb43dbb1af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/img</value>
+      <webElementGuid>a2f7eb9b-8c71-45ac-9411-77435de7a03c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://elektra.vtexassets.com/assets/vtex.file-manager-graphql/images/767ae2a9-7e6c-4219-9596-554cda10a1ea___ff27ccbfbf4f7c942423dcbb7b016f74.webp' and @alt = 'Conectividad_Telefonía_Motorola_Moto_G22_128GB_Libre_W03_Dpto_1 _W02_Dpto_1']</value>
+      <webElementGuid>5c9e184d-97a1-45e3-b200-e0cf6e8bde27</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
