@@ -42,9 +42,13 @@ WebUI.click(findTestObject('Object Repository/ElektraPages/Page_watch - Elektra 
 
 WebUI.click(findTestObject('Object Repository/ElektraPages/Page_Huawei Watch Fit 2 Negro  Elektra tien_5563d7/div_AddtoCart_pdp'))
 
-WebUI.click(findTestObject('Object Repository/ElektraPages/Page_Huawei Watch Fit 2 Negro  Elektra tien_5563d7/span_bagIcon_miniBag'))
+WebUI.maximizeWindow()
 
-WebUI.click(findTestObject('Object Repository/ElektraPages/Page_Huawei Watch Fit 2 Negro  Elektra tien_5563d7/div_continuecheckout_minibag'))
+WebUI.click(findTestObject('ElektraPage/CartPage/bagIcon_header'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('ElektraPage/CartPage/continuar_minicart'), FailureHandling.STOP_ON_FAILURE)
+
+checkoutUrl = WebUI.getUrl()
 
 WebUI.setText(findTestObject('Object Repository/ElektraPages/Page_Elektra - Tienda en lnea/input_postalCode_checkout'), 
     '14000')
@@ -122,44 +126,4 @@ println('pedidoText' + pedidoText)
 String orderId = order.substring(10, 24)
 
 println('orderId: ' + orderId)
-
-WebUI.openBrowser('')
-
-WebUI.navigateToUrl('https://www.elektra.mx/')
-
-not_run: WebUI.click(findTestObject('Object Repository/Page_Elektra, Tu Familia Vive Mejor/offers_icon-close_1'))
-
-WebUI.click(findTestObject('Object Repository/Page_Elektra, Tu Familia Vive Mejor/p_Departamentos'))
-
-WebUI.acceptAlert()
-
-WebUI.click(findTestObject('Object Repository/Page_Elektra, Tu Familia Vive Mejor/a_Blusas_l1Category'))
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Blusas para Mujer - Elektra en Lnea/div_Blusa Moda Oggi Mujer Mezclilla 2212303_d141bc'), 
-    0)
-
-WebUI.click(findTestObject('Object Repository/Page_Blusas para Mujer - Elektra en Lnea/div_Blusa Moda Oggi Mujer Mezclilla 2212303_d141bc'))
-
-WebUI.click(findTestObject('Object Repository/Page_Blusas para Mujer - Elektra en Lnea/img_Nombre, decreciente_vtex-product-summar_9f1841'))
-
-WebUI.click(findTestObject('Object Repository/Page_Elektra, Tu Familia Vive Mejor/div_CH'))
-
-WebUI.click(findTestObject('Object Repository/Page_Elektra, Tu Familia Vive Mejor/div_Agregar al carrito'))
-
-WebUI.click(findTestObject('Object Repository/Page_Elektra, Tu Familia Vive Mejor/div_TallaCHMGEG'))
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Elektra, Tu Familia Vive Mejor/span_Blusa Moda Oggi Mujer Mezclilla 221230_8ef56a'), 
-    0)
-
-WebUI.rightClick(findTestObject('Object Repository/Page_Elektra, Tu Familia Vive Mejor/div_id(katalon-rec_elementInfoDiv)'))
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Elektra, Tu Familia Vive Mejor/span_689'), 0)
-
-WebUI.click(findTestObject('Object Repository/Page_Elektra, Tu Familia Vive Mejor/span_Comprar'))
-
-WebUI.setText(findTestObject('Object Repository/checkoutPage1/input_postalCode_checkout'), '09500')
-
-WebUI.click(findTestObject('Object Repository/checkoutPage1/div_Buscar_checkout'))
-
-WebUI.click(findTestObject('Object Repository/checkoutPage1/div_Entregaremos tu carrito en el cdigo pos_1256e8'))
 

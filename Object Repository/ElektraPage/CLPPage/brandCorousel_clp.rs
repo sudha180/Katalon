@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>bannerCorousel_clp</name>
+   <name>brandCorousel_clp</name>
    <tag></tag>
    <elementGuidId>dcf05ac1-83ca-4c43-961f-3013ed6aaaca</elementGuidId>
    <selectorCollection>

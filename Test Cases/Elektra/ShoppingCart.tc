@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TcUntilCart</name>
+   <name>ShoppingCart</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>04dab10c-246f-4f0a-8477-a9fc4fcc0342</testCaseGuid>

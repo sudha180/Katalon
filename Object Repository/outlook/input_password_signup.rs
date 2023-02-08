@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_password_signup</name>
+   <tag></tag>
+   <elementGuidId>80cbba58-44d0-4d00-aa48-b437f33d238e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@placeholder='Ingrese su contraseña ']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>fc29abdf-94e1-46b5-83de-177830ac62ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vtex-styleguide-9-x-input ma0 border-box vtex-styleguide-9-x-hideDecorators vtex-styleguide-9-x-noAppearance br2  br-0 br--left  w-100 bn outline-0 bg-base c-on-base b--muted-2 t-body pl5 </value>
+      <webElementGuid>2eb66cb8-01aa-429c-80fe-407a747c9b65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Ingrese su contraseña </value>
+      <webElementGuid>9fb5793b-a212-4ef8-8d6e-e250274b4151</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>password</value>
+      <webElementGuid>46e1c04d-0f56-4424-9208-3e9d26ccc426</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>S</value>
+      <webElementGuid>215b9df2-b85e-4da3-9855-4ac81ce3e6df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;bg-base&quot;]/div[@class=&quot;vtex-login-2-x-portalContainer&quot;]/div[@class=&quot;vtex-login-2-x-portalWrapper&quot;]/div[@class=&quot;flex justify-start&quot;]/div[@class=&quot;absolute&quot;]/div[1]/div[@class=&quot;vtex-login-2-x-box z-max absolute&quot;]/div[@class=&quot;vtex-login-2-x-contentContainer shadow-3 mt3&quot;]/div[@class=&quot;vtex-login-2-x-content vtex-login-2-x-content--recoveryPassword flex relative bg-base justify-around overflow-visible pa4 center items-baseline-ns items-baseline&quot;]/div[@class=&quot;vtex-login-2-x-contentForm dn vtex-login-2-x-contentFormVisible db  ph4&quot;]/div[1]/div[@class=&quot;vtex-login-2-x-emailVerification vtex-login-2-x-forgotPasswordForm w-100&quot;]/form[1]/div[@class=&quot;vtex-login-2-x-inputContainer vtex-login-2-x-inputContainerPassword pv3&quot;]/div[@class=&quot;relative&quot;]/label[@class=&quot;vtex-input w-100&quot;]/div[@class=&quot;vtex-input-prefix__group flex flex-row items-stretch overflow-hidden br2 bw1 b--solid b--muted-2 h-regular&quot;]/input[@class=&quot;vtex-styleguide-9-x-input ma0 border-box vtex-styleguide-9-x-hideDecorators vtex-styleguide-9-x-noAppearance br2  br-0 br--left  w-100 bn outline-0 bg-base c-on-base b--muted-2 t-body pl5&quot;]</value>
+      <webElementGuid>ec1bebbc-d17a-4025-bdff-10bde6efdd9f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='S']</value>
+      <webElementGuid>a56cf8c3-506f-4aaf-af65-1d87d9eb868d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/label/div/input</value>
+      <webElementGuid>465f7d5a-c032-41a1-b0df-d373a5c6c4f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'Ingrese su contraseña ' and @type = 'password']</value>
+      <webElementGuid>23397314-97bf-4722-9097-f38083fa7e4c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

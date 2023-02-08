@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>ElektraTestSuite</name>
+   <name>ElektraTestSuite - Demo</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,7 +10,7 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>3d433b88-a79a-44c3-ab5b-f82a318b0cda</testSuiteGuid>
+   <testSuiteGuid>47546bf3-3a64-4de3-9040-2602e1117f37</testSuiteGuid>
    <testCaseLink>
       <guid>4e508bdf-df51-4204-986b-dd9fff3ddafb</guid>
       <isReuseDriver>false</isReuseDriver>
@@ -43,49 +43,10 @@
       </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>1b2bfe9d-b041-4c91-a8b7-5b86b8662575</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Elektra/LoginAndCheckMyorders</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
       <guid>6569194a-ab54-42ec-b5f0-19f718350140</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Elektra/SearchAndAddProduct</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>bcc60561-748d-49ab-9f2a-72a1bac930a2</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Elektra/BrowseAndAddProductToCart</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>0ec1a586-5ae1-4d8d-a2ca-2e2d539c98fd</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Elektra/E2E_PlaceOrder</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>f0d23c95-4ed1-41df-a61e-a06613b824ae</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>a4b35fa5-fffa-46d3-b4ce-7c687757a0dd</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>f008d37d-5a42-4f84-86e0-de2c5291d222</variableId>
-      </variableLink>
    </testCaseLink>
 </TestSuiteEntity>

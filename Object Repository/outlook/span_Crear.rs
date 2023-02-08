@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Crear</name>
+   <tag></tag>
+   <elementGuidId>bb286adf-1ab0-4ba9-af11-999f23d28b50</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Volver'])[1]/following::span[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b2c0124a-3b62-41a8-806d-be8f54db87ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>t-small</value>
+      <webElementGuid>cc65c202-47c7-48e6-80e8-bc02fa0803f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Crear</value>
+      <webElementGuid>204270a0-88ee-4d2a-92ab-da69103de7a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;bg-base&quot;]/div[@class=&quot;vtex-login-2-x-portalContainer&quot;]/div[@class=&quot;vtex-login-2-x-portalWrapper&quot;]/div[@class=&quot;flex justify-start&quot;]/div[@class=&quot;absolute&quot;]/div[1]/div[@class=&quot;vtex-login-2-x-box z-max absolute&quot;]/div[@class=&quot;vtex-login-2-x-contentContainer shadow-3 mt3&quot;]/div[@class=&quot;vtex-login-2-x-content vtex-login-2-x-content--recoveryPassword flex relative bg-base justify-around overflow-visible pa4 center items-baseline-ns items-baseline&quot;]/div[@class=&quot;vtex-login-2-x-contentForm dn vtex-login-2-x-contentFormVisible db  ph4&quot;]/div[1]/div[@class=&quot;vtex-login-2-x-emailVerification vtex-login-2-x-forgotPasswordForm w-100&quot;]/form[1]/div[@class=&quot;vtex-login-2-x-formFooter bt b--muted-4 pt4 flex mt3&quot;]/div[@class=&quot;vtex-login-2-x-sendButton ml-auto&quot;]/button[@class=&quot;vtex-button bw1 ba fw5 v-mid relative pa0 lh-solid br2 min-h-small t-action--small bg-action-primary b--action-primary c-on-action-primary hover-bg-action-primary hover-b--action-primary hover-c-on-action-primary pointer&quot;]/div[@class=&quot;vtex-button__label flex items-center justify-center h-100 ph5&quot;]/span[@class=&quot;t-small&quot;]</value>
+      <webElementGuid>272a1cb5-a230-43b9-b3f9-993710755aff</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Volver'])[1]/following::span[1]</value>
+      <webElementGuid>4c5cdfe9-0c48-4ef3-bc08-9d210e4e79b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mínimo 8 caracteres'])[1]/following::span[3]</value>
+      <webElementGuid>77bad745-099e-418d-abde-4023caf2f4d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='✖'])[1]/preceding::span[1]</value>
+      <webElementGuid>72a90285-638c-4ac4-92bf-c4b8d0fc1034</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Crear']/parent::*</value>
+      <webElementGuid>e178541a-0032-4a05-9df7-b9aeba076bab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button/div/span</value>
+      <webElementGuid>51b6a978-3e4a-4160-a451-2a76adbcdbae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Crear' or . = 'Crear')]</value>
+      <webElementGuid>79f9b8e2-86c9-49c2-aa82-a9445713ca84</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

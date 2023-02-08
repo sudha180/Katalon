@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Holasudha</name>
+   <tag></tag>
+   <elementGuidId>9c3417e4-3c9d-4498-b876-856e0e6216ae</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Hola, sudha'])[1]/preceding::p[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.elektra-elektra-components-0-x-placeholderLogin > p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>42e050ec-1f70-42e2-b174-97199166850c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>¡Hola!sudha</value>
+      <webElementGuid>099ec89c-3e9f-464f-bf6e-8b103383b46e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;bg-base&quot;]/div[@class=&quot;render-container render-route-store-account&quot;]/div[@class=&quot;render-provider&quot;]/div[@class=&quot;vtex-store__template bg-base&quot;]/div[@class=&quot;flex flex-column min-vh-100 w-100&quot;]/div[@class=&quot;vtex-sticky-layout-0-x-wrapper vtex-sticky-layout-0-x-wrapper--sticky-header-1&quot;]/div[@class=&quot;vtex-sticky-layout-0-x-container vtex-sticky-layout-0-x-container--sticky-header-1 z-999 relative left-0 right-0&quot;]/div[@class=&quot;vtex-flex-layout-0-x-flexRow vtex-flex-layout-0-x-flexRow--menu-link&quot;]/div[@class=&quot;flex mt0 mb0 pt0 pb0    justify-center vtex-flex-layout-0-x-flexRowContent vtex-flex-layout-0-x-flexRowContent--menu-link items-stretch w-100&quot;]/div[@class=&quot;pr0     flex&quot;]/div[@class=&quot;elektra-elektra-components-0-x-containerUserPlaceholder&quot;]/div[@class=&quot;elektra-elektra-components-0-x-placeholderLogin&quot;]/p[1]</value>
+      <webElementGuid>04d681a2-081a-4477-b7b1-c76b9bcc2fcf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hola, sudha'])[1]/preceding::p[1]</value>
+      <webElementGuid>eaaa2c38-6578-49d0-9663-c94e32fd5afa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='¡Hola!']/parent::*</value>
+      <webElementGuid>6f4aa267-51ac-4a26-b94d-1d8c1cfc3f21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/p</value>
+      <webElementGuid>fe939b86-efb8-4856-9d46-49f3bc3dd8c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = '¡Hola!sudha' or . = '¡Hola!sudha')]</value>
+      <webElementGuid>4195432a-99d6-48d3-b87b-664b38cf312d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

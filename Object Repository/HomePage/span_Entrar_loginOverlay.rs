@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Entrar_loginOverlay</name>
+   <tag></tag>
+   <elementGuidId>b86cc681-0e39-41b0-8cdc-eaef5ba6fc1c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Volver'])[1]/following::span[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7f05a233-f084-484a-8596-7d64c5075209</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>t-small</value>
+      <webElementGuid>5ae54aa5-2e9f-4239-ad88-53e281131488</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Entrar</value>
+      <webElementGuid>c29edc2b-763c-430d-8e7f-eaf70df81571</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;bg-base&quot;]/div[@class=&quot;vtex-login-2-x-portalContainer&quot;]/div[@class=&quot;vtex-login-2-x-portalWrapper&quot;]/div[@class=&quot;flex justify-start&quot;]/div[@class=&quot;absolute&quot;]/div[1]/div[@class=&quot;vtex-login-2-x-box z-max absolute&quot;]/div[@class=&quot;vtex-login-2-x-contentContainer shadow-3 mt3&quot;]/div[@class=&quot;vtex-login-2-x-content vtex-login-2-x-content--emailAndPassword flex relative bg-base justify-around overflow-visible pa4 center items-baseline-ns items-baseline&quot;]/div[@class=&quot;vtex-login-2-x-contentForm dn vtex-login-2-x-contentFormVisible db  ph4&quot;]/div[1]/div[@class=&quot;vtex-login-2-x-emailVerification vtex-login-2-x-emailAndPasswordForm w-100&quot;]/form[1]/div[@class=&quot;vtex-login-2-x-formFooter bt b--muted-4 pt4 flex mt3&quot;]/div[@class=&quot;vtex-login-2-x-sendButton ml-auto&quot;]/button[@class=&quot;vtex-button bw1 ba fw5 v-mid relative pa0 lh-solid br2 min-h-small t-action--small bg-action-primary b--action-primary c-on-action-primary hover-bg-action-primary hover-b--action-primary hover-c-on-action-primary pointer&quot;]/div[@class=&quot;vtex-button__label flex items-center justify-center h-100 ph5&quot;]/span[@class=&quot;t-small&quot;]</value>
+      <webElementGuid>5c79909b-5253-4352-8051-97533fe62d2d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Volver'])[1]/following::span[1]</value>
+      <webElementGuid>aee15aa7-e89b-40e3-a0a1-8d5c18e70101</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Olvidé mi contraseña'])[1]/following::span[3]</value>
+      <webElementGuid>bd20b939-2375-413e-a16e-86c81b75ec34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='¿No tiene una cuenta? Regístrese'])[1]/preceding::span[1]</value>
+      <webElementGuid>8e20afa1-c4e3-4779-997b-1a37ff172910</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button/div/span</value>
+      <webElementGuid>04b157d8-b576-45e6-9cd5-b31aa28d83e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Entrar' or . = 'Entrar')]</value>
+      <webElementGuid>8ac9c900-23a7-4d0c-8bde-25e86317d300</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -15,7 +15,7 @@
       <guid>e60912f8-3984-4e03-82b4-4bdb2817285b</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/tc03</testCaseId>
+      <testCaseId>Test Cases/CommonMethods/tc03</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>

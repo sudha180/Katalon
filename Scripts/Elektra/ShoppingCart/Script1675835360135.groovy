@@ -41,7 +41,7 @@ WebUI.click(findTestObject('ElektraPage/HomePage/L1category_HP'))
 
 WebUI.verifyElementPresent(findTestObject('ElektraPage/CLPPage/bannerImg_clp'), 0)
 
-WebUI.verifyElementPresent(findTestObject('ElektraPage/CLPPage/bannerCorousel_clp'), 0)
+WebUI.verifyElementPresent(findTestObject('ElektraPage/CLPPage/brandCorousel_clp'), 0)
 
 WebUI.delay(3)
 
@@ -73,6 +73,10 @@ WebUI.verifyElementPresent(findTestObject('ElektraPage/PLPPage/span_ColorFilter_
 
 WebUI.verifyElementPresent(findTestObject('ElektraPage/PLPPage/listOfProducts_plp'), 0)
 
+WebUI.scrollToElement(findTestObject('ElektraPage/PLPPage/productName_plp'), 0)
+
+WebUI.delay(5)
+
 WebUI.verifyElementPresent(findTestObject('ElektraPage/PLPPage/productName_plp'), 0)
 
 WebUI.verifyElementPresent(findTestObject('ElektraPage/PLPPage/productSellingPrice_plp'), 0)
@@ -93,7 +97,7 @@ WebUI.click(findTestObject('ElektraPage/PLPPage/input_Color_plp'))
 
 WebUI.verifyElementPresent(findTestObject('ElektraPage/PLPPage/assertFilterSelected_plp'), 0)
 
-WebUI.scrollToElement(findTestObject('ElektraPage/PLPPage/productName_plp'), 0)
+WebUI.scrollToElement(findTestObject('ElektraPage/PLPPage/assertFilterSelected_plp'), 0)
 
 WebUI.click(findTestObject('ElektraPage/PLPPage/productName_plp'))
 
