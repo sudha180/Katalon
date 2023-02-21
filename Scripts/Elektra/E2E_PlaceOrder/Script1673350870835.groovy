@@ -22,18 +22,25 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://www.elektra.mx/')
 
+if (WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Elektra, Tu Familia Vive Mejor/offers_icon-close_1'), 
+    0) == true) {
+    WebUI.click(findTestObject('Object Repository/Page_Elektra, Tu Familia Vive Mejor/offers_icon-close_1'))
+} else {
+    println('offer is not present')
+}
+
 WebUI.click(findTestObject('Object Repository/ElektraPages/Page_Elektra, Tu Familia Vive Mejor/b_Inicia sesin_hp'))
 
 WebUI.click(findTestObject('Object Repository/ElektraPages/Page_Elektra, Tu Familia Vive Mejor/span_Entrar con e-mail y contrasea'))
 
 WebUI.setText(findTestObject('Object Repository/ElektraPages/Page_Elektra, Tu Familia Vive Mejor/input_e-mail_Login'), 'saddepalli@kognivera.com')
 
-WebUI.setText(findTestObject('Object Repository/ElektraPages/Page_Elektra, Tu Familia Vive Mejor/input_password_login'), 
-    'Luckytara123$')
+WebUI.setEncryptedText(findTestObject('Object Repository/ElektraPages/Page_Elektra, Tu Familia Vive Mejor/input_password_login'), 
+    '4MI0l6NGHQElPoE9OgyuQw==')
 
 WebUI.click(findTestObject('Object Repository/ElektraPages/Page_Elektra, Tu Familia Vive Mejor/span_submitLogin_login'))
 
-WebUI.setText(findTestObject('Object Repository/ElektraPages/Page_Elektra, Tu Familia Vive Mejor/input_searchBar_hp'), 'watch')
+WebUI.setText(findTestObject('Object Repository/ElektraPages/Page_Elektra, Tu Familia Vive Mejor/input_searchBar_hp'), '852980')
 
 WebUI.sendKeys(findTestObject('Object Repository/ElektraPages/Page_Elektra, Tu Familia Vive Mejor/input_searchBar_hp'), 
     Keys.chord(Keys.ENTER))
@@ -79,22 +86,23 @@ WebUI.rightClick(findTestObject('Object Repository/ElektraPages/Page_Orden coloc
 
 WebUI.click(findTestObject('Object Repository/ElektraPages/Page_Orden colocada/div_Gracias por tu compraTe enviaremos el d_2d12dd'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/ElektraPages/Page_Orden colocada/table_ProductoPrecio unitarioCantidadTotalh_c538f4'), 
+WebUI.verifyElementPresent(findTestObject('Object Repository/ElektraPages/Page_Orden colocada/productDetails_confirmationPage'), 
     0)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/ElektraPages/Page_Orden colocada/div_Datos personalessudha ranisaddepallikog_5d906f'), 
+WebUI.verifyElementPresent(findTestObject('Object Repository/ElektraPages/Page_Orden colocada/personalInfo_confirmationPage'), 
     0)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/ElektraPages/Page_Orden colocada/span_Ir a mis pedidos'), 0)
+WebUI.verifyElementPresent(findTestObject('Object Repository/ElektraPages/Page_Orden colocada/span_Ir a mis pedidos_confirmationPage'), 
+    0)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/ElektraPages/Page_Orden colocada/span_Hacer nuevas compras'), 
+WebUI.verifyElementPresent(findTestObject('Object Repository/ElektraPages/Page_Orden colocada/span_newPayment_confirmationPage'), 
     0)
 
 String orderId_ConfirmPage = WebUI.getText(findTestObject('ElektraPages/Page_Orden colocada/orderId_confirmationPage'))
 
 println('orderId_ConfirmPage: ' + orderId_ConfirmPage)
 
-WebUI.click(findTestObject('Object Repository/ElektraPages/Page_Orden colocada/span_Ir a mis pedidos'))
+WebUI.click(findTestObject('Object Repository/ElektraPages/Page_Orden colocada/span_Ir a mis pedidos_confirmationPage'))
 
 not_run: WebUI.click(findTestObject('Object Repository/ElektraPages/Page_Elektra, Tu Familia Vive Mejor/svg_Oferta Relmpago_vtex__icon-close'))
 

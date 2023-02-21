@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Place an order with bancomer payment</description>
+   <name>PlaceOrderinElektraSite</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f9c037e0-df5b-4498-8634-d9ecf134ab59</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>59760eef-d7d7-4b89-bd24-1df4f8cc455f</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c38403a6-0c36-411f-b001-cd7f5505dbd6</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>337ef33a-7a6f-443c-875e-874cb006974a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'https://www.elektra.mx/checkout/orderPlaced'</defaultValue>
+      <description></description>
+      <id>59760eef-d7d7-4b89-bd24-1df4f8cc455f</id>
+      <masked>false</masked>
+      <name>confirmationPageUrl</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c38403a6-0c36-411f-b001-cd7f5505dbd6</id>
+      <masked>false</masked>
+      <name>ActualmyOrdersUrl</name>
+   </variable>
+   <variable>
+      <defaultValue>'https://www.elektra.mx/account#/pedidos'</defaultValue>
+      <description></description>
+      <id>337ef33a-7a6f-443c-875e-874cb006974a</id>
+      <masked>false</masked>
+      <name>expectedMyordersUrl</name>
+   </variable>
+</TestCaseEntity>

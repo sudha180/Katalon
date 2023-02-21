@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_Hacer nuevas compras</name>
+   <name>span_newPayment_confirmationPage</name>
    <tag></tag>
    <elementGuidId>f9aa1c5c-a2ba-4d32-9e85-2f76af412c5c</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>span.vtex-store-link-0-x-label.vtex-store-link-0-x-label--button-compras</value>
+         <key>XPATH</key>
+         <value>//a[@class='vtex-store-link-0-x-link vtex-store-link-0-x-link--button-compras']//span</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Ir a mis pedidos'])[1]/following::span[1]</value>
+         <key>CSS</key>
+         <value>span.vtex-store-link-0-x-label.vtex-store-link-0-x-label--button-compras</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>52cea6ef-818a-4b9b-b725-677d4608f9ae</webElementGuid>
+      <webElementGuid>bc10f8b3-3bf9-464e-bc4e-a10158b77015</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>vtex-store-link-0-x-label vtex-store-link-0-x-label--button-compras</value>
-      <webElementGuid>a087fac3-7787-4934-a59f-075878da5200</webElementGuid>
+      <webElementGuid>e9d4e4de-99df-4e55-a83a-eda98c1d89ed</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Hacer nuevas compras</value>
-      <webElementGuid>9584dade-3ae2-40dd-b3d0-700579ff3c7f</webElementGuid>
+      <webElementGuid>3d455090-66c4-48b3-99f9-9d146bc8a28c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;bg-base&quot;]/div[@class=&quot;render-container render-route-store-orderplaced&quot;]/div[@class=&quot;render-provider&quot;]/div[@class=&quot;vtex-store__template bg-base&quot;]/div[@class=&quot;flex flex-column min-vh-100 w-100&quot;]/div[2]/div[@class=&quot;flex flex-grow-1 w-100 flex-column&quot;]/div[1]/div[@class=&quot;vtex-order-placed-2-x-orderPlacedWrapper pt9 sans-serif&quot;]/div[@class=&quot;vtex-order-placed-2-x-orderPlacedMainWrapper mv6 w-80-ns w-90 center&quot;]/ul[@class=&quot;vtex-order-placed-2-x-orderList list pa0 ma0&quot;]/li[@class=&quot;vtex-order-placed-2-x-orderListItem db bb b--muted-4 pb9 mb9&quot;]/div[@class=&quot;vtex-order-placed-2-x-orderWrapper&quot;]/div[@class=&quot;vtex-flex-layout-0-x-flexRow vtex-flex-layout-0-x-flexRow--container-buttons-orderplaced&quot;]/section[@class=&quot;vtex-store-components-3-x-container ph3 ph5-m ph2-xl mw9 center&quot;]/div[@class=&quot;flex mt0 mb0 pt0 pb0    justify-start vtex-flex-layout-0-x-flexRowContent vtex-flex-layout-0-x-flexRowContent--container-buttons-orderplaced items-stretch w-100&quot;]/div[@class=&quot;pr0 items-stretch vtex-flex-layout-0-x-stretchChildrenWidth   flex&quot;]/a[@class=&quot;vtex-store-link-0-x-link vtex-store-link-0-x-link--button-compras&quot;]/span[@class=&quot;vtex-store-link-0-x-label vtex-store-link-0-x-label--button-compras&quot;]</value>
-      <webElementGuid>2fc06cad-ad36-404e-a34c-f7e20ef1291e</webElementGuid>
+      <webElementGuid>3cc8093d-a398-4193-8b36-55e941f0ffa9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Ir a mis pedidos'])[1]/following::span[1]</value>
-      <webElementGuid>9046b121-acfc-450d-9b86-9c8acf5b1362</webElementGuid>
+      <webElementGuid>c5ccd34e-153b-482a-adf7-48888b9cc027</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='$2,999'])[4]/following::span[2]</value>
-      <webElementGuid>1b2b732c-cad8-4d31-8baf-149c22e218db</webElementGuid>
+      <webElementGuid>3d07991d-6c7a-46d2-b59d-a4b4a949b6b0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Atención al cliente'])[1]/preceding::span[1]</value>
-      <webElementGuid>13fba505-daeb-4239-b3bf-dd40567df99e</webElementGuid>
+      <webElementGuid>0f604880-f350-4091-a8a7-32c1c7655831</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Aviso de privacidad'])[1]/preceding::span[1]</value>
-      <webElementGuid>d5c67efe-9180-480a-9b6d-86fb82257570</webElementGuid>
+      <webElementGuid>4c6df2d2-e582-4f52-ac4c-7106fe9031c3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Hacer nuevas compras']/parent::*</value>
-      <webElementGuid>4980cf85-3275-4918-80fd-e418f35740c8</webElementGuid>
+      <webElementGuid>e52abd8a-5844-4bd5-97b8-d0b190906091</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/a/span</value>
-      <webElementGuid>e1fa0dbc-af18-43ac-bc65-7f7395de908b</webElementGuid>
+      <webElementGuid>f0bff788-766b-47f3-86fe-7bf0d097e493</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Hacer nuevas compras' or . = 'Hacer nuevas compras')]</value>
-      <webElementGuid>b574eeee-ba8f-4c08-a2ba-1230218ef642</webElementGuid>
+      <webElementGuid>b39da8b8-1734-45d4-9517-6e5b36bab799</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

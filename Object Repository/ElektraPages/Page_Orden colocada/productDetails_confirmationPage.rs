@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>table_ProductoPrecio unitarioCantidadTotalh_c538f4</name>
+   <name>productDetails_confirmationPage</name>
    <tag></tag>
    <elementGuidId>d8872345-fbb5-4b8a-9632-dbfca92af2da</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>table.elektra-elektra-components-0-x-itemsTable</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>(.//*[normalize-space(text()) and normalize-space(.)='Fecha de pago:'])[1]/following::table[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>table.elektra-elektra-components-0-x-itemsTable</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

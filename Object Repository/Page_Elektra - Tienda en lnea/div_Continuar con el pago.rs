@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div_AddToCart_pdp</name>
+   <name>div_Continuar con el pago</name>
    <tag></tag>
-   <elementGuidId>cc4d14fa-3d24-44fe-a71b-00b002095e9d</elementGuidId>
+   <elementGuidId>7b22f822-eaa7-43de-b67e-4b896f8a9401</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//button[@id='vtex-add-to-cart']//div[@class='vtex-button__label flex items-center justify-center h-100 ph6 ']</value>
+         <key>CSS</key>
+         <value>div.Button_button__RQIW7.false.undefined</value>
       </entry>
       <entry>
-         <key>CSS</key>
+         <key>XPATH</key>
+         <value>//section[@id='Shipping_body__2hhAf']/section/section/div[9]/div</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,94 +22,94 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>accfc54d-4051-4fd4-b375-bb65ff40ba5f</webElementGuid>
+      <webElementGuid>68c9e1b1-78a1-4dd3-87c2-3ea712e839fa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>vtex-button__label flex items-center justify-center h-100 ph6 </value>
-      <webElementGuid>c67ae366-5890-4ff3-9400-c218940702b9</webElementGuid>
+      <value>Button_button__RQIW7 false undefined</value>
+      <webElementGuid>f78a574a-4ea9-42ba-9c76-96221ccf5f9b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Agregar al carrito</value>
-      <webElementGuid>b0f87ae2-f1c0-418e-9996-25a2fddcb6c7</webElementGuid>
+      <value>Continuar con el pago</value>
+      <webElementGuid>32a8e0d8-96b3-4bf0-b380-06db651d26d5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;vtex-add-to-cart&quot;)/div[@class=&quot;vtex-button__label flex items-center justify-center h-100 ph6&quot;]</value>
-      <webElementGuid>13b05c53-86b6-465a-a637-614c25f24bd9</webElementGuid>
+      <value>id(&quot;Shipping_body__2hhAf&quot;)/section[1]/section[@class=&quot;ShippingForm_addressForm__32lNb&quot;]/div[@class=&quot;ShippingForm_buttonBar__Q9rbQ undefined&quot;]/div[@class=&quot;Button_button__RQIW7 false undefined&quot;]</value>
+      <webElementGuid>3ee54874-e93c-43fa-a780-fac1895a164e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//button[@id='vtex-add-to-cart']/div</value>
-      <webElementGuid>f047fca0-65d5-499b-99ad-040e541de98e</webElementGuid>
+      <value>//section[@id='Shipping_body__2hhAf']/section/section/div[9]/div</value>
+      <webElementGuid>9a60f682-e9cd-4701-a79f-a05cd30a0e93</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Comprar'])[1]/following::div[5]</value>
-      <webElementGuid>80974864-3589-4664-9805-08a40d5d4c23</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='arrow_drop_down'])[1]/following::div[7]</value>
+      <webElementGuid>4808a79c-a535-4fa2-b846-f22b63165d58</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='－'])[1]/following::div[11]</value>
-      <webElementGuid>dc3daf82-8df7-4dd6-9ed2-5713f86c1ead</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Colonia *'])[1]/following::div[7]</value>
+      <webElementGuid>09d2645a-8138-43f9-843c-d543aed44d09</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='✖'])[1]/preceding::div[50]</value>
-      <webElementGuid>bcb4444f-9d22-4282-bc5e-143e1aa6b87f</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Regresar'])[1]/preceding::div[1]</value>
+      <webElementGuid>630346f1-e148-418d-8d16-17ea7f3cbe27</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Original text'])[1]/preceding::div[56]</value>
-      <webElementGuid>102cd4f6-a694-40aa-a007-46fff4262c39</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pago'])[1]/preceding::div[2]</value>
+      <webElementGuid>0e0d54c9-1a28-4947-8727-d2547a86baa8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Agregar al carrito']/parent::*</value>
-      <webElementGuid>96734c7e-6240-4099-9515-0b1f9fceb355</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Continuar con el pago']/parent::*</value>
+      <webElementGuid>80a8d79c-19f9-4080-a1a4-c9a600d87975</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[6]/div/div/div/button/div</value>
-      <webElementGuid>81bdcbab-aa75-4b2b-a771-c4968650a66a</webElementGuid>
+      <value>//div[9]/div</value>
+      <webElementGuid>a79117bd-9ea9-44dc-8512-55f87d247b4e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//div[(text() = 'Agregar al carrito' or . = 'Agregar al carrito')]</value>
-      <webElementGuid>ad816219-6f92-43f5-a97e-1848342540bd</webElementGuid>
+      <value>//div[(text() = 'Continuar con el pago' or . = 'Continuar con el pago')]</value>
+      <webElementGuid>6cf755b9-aa05-49b1-a81f-a31730bb76aa</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

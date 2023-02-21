@@ -136,4 +136,3 @@ WebUI.verifyElementPresent(findTestObject('ElektraPage/CheckoutPage/checkoutPage
 WebUI.verifyElementPresent(findTestObject('ElektraPage/CheckoutPage/checkCartEnabled_checkout'), 0)
 
 WebUI.verifyElementPresent(findTestObject('ElektraPage/CheckoutPage/verifyEmailDisabled_checkout'), 0)
-

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Place order in elektra site</description>
+   <name>e2e</name>
+   <tag>E2E</tag>
+   <comment></comment>
+   <testCaseGuid>97009545-b8e3-41ff-b3d6-4a6d5f700935</testCaseGuid>
+</TestCaseEntity>

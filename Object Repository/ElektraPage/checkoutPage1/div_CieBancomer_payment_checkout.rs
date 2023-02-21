@@ -6,11 +6,11 @@
    <elementGuidId>b31be4f4-e54f-46dc-8109-690171a2553c</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//section[@id='App_partial__10XfR']/section/div[9]/section/section/section/nav/div[2]/div/div/div[2]</value>
+         <key>CSS</key>
       </entry>
       <entry>
-         <key>CSS</key>
+         <key>XPATH</key>
+         <value>//*/text()[normalize-space(.)='En efectivo en Banco Azteca o Elektra']/parent::*</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>0c5934c0-959a-4c92-8f26-724f964922c2</webElementGuid>
+      <webElementGuid>75a408d4-22e2-419d-9091-3f6ea8089f8e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>PaymentMethods_methodName__6QLy0</value>
-      <webElementGuid>c26bb6b4-3fdb-498d-8e0e-a5ccfe293a44</webElementGuid>
+      <webElementGuid>a0798b48-4dd4-43fd-852c-e7eed8733d68</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>En efectivo en Banco Azteca o Elektra</value>
-      <webElementGuid>c0569894-7419-4403-906a-7aaaaed15717</webElementGuid>
+      <webElementGuid>5aff221e-ce4f-438a-9aaf-351eb91b4b0a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;App_partial__10XfR&quot;)/section[1]/div[@class=&quot;PaymentStep_module__5bUSo    undefined&quot;]/section[@class=&quot;PaymentStep_body__3YtId&quot;]/section[1]/section[@class=&quot;PaymentMethods_content__2jwCJ&quot;]/nav[@class=&quot;PaymentMethods_nav__3rF9g&quot;]/div[2]/div[1]/div[@class=&quot;PaymentMethods_method__3PcCF undefined&quot;]/div[@class=&quot;PaymentMethods_methodName__6QLy0&quot;]</value>
-      <webElementGuid>3f5fe5f6-8187-455e-bc89-02d17f276792</webElementGuid>
+      <webElementGuid>35a28205-e760-4596-8028-377504806665</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//section[@id='App_partial__10XfR']/section/div[9]/section/section/section/nav/div[2]/div/div/div[2]</value>
-      <webElementGuid>40acfde6-5ceb-4591-8571-1b3329e6b571</webElementGuid>
+      <webElementGuid>b7cefda9-9cbc-46a4-8ce6-c300164cda73</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='PayPal'])[1]/following::div[6]</value>
-      <webElementGuid>725cc45b-05b5-40e8-a64c-10b7f1e93210</webElementGuid>
+      <webElementGuid>07e75f2e-c532-4a28-a4f7-d0f8cce071fd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Pago con QR'])[1]/following::div[11]</value>
-      <webElementGuid>43b935ba-8d2a-4d77-bd06-78fa7c6daae8</webElementGuid>
+      <webElementGuid>d2e5d6d6-4336-4929-86e8-624946c15654</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Otros'])[1]/preceding::div[3]</value>
-      <webElementGuid>0cf68071-73e4-4e7a-acfd-047920a059d5</webElementGuid>
+      <webElementGuid>a812ddb0-0f8e-4f11-8b30-5d88f4c692d6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='En efectivo en Banco Azteca o Elektra']/parent::*</value>
-      <webElementGuid>11f724c5-1929-4293-9789-4afdbf84a14f</webElementGuid>
+      <webElementGuid>df2d4b75-ef52-46f4-9066-4c34455fbcef</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//nav/div[2]/div/div/div[2]</value>
-      <webElementGuid>04d30280-d927-44a5-ac16-9a05d07ac5a9</webElementGuid>
+      <webElementGuid>de30ac94-054e-4f85-b72b-66156c91e690</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +101,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'En efectivo en Banco Azteca o Elektra' or . = 'En efectivo en Banco Azteca o Elektra')]</value>
-      <webElementGuid>c0a73286-c15a-419d-be12-735496df3cc1</webElementGuid>
+      <webElementGuid>8ed7f422-cd72-4671-be82-bf01e6cb9db3</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

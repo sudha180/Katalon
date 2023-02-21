@@ -6,12 +6,12 @@
    <elementGuidId>da3a8138-a31d-4503-ade5-c0c74a1046d9</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='enero'])[1]/following::div[4]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>div.elektra-myaccount-orders-elektra-0-x-containerStatus</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='febrero'])[1]/following::div[4]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>99375617-e51f-4398-8990-f56b840a4cfb</webElementGuid>
+      <webElementGuid>28806d3c-dbd4-4f50-bf11-c2e1e7e4cdf5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>elektra-myaccount-orders-elektra-0-x-containerStatus</value>
-      <webElementGuid>e057073d-72fb-40ff-8cd1-9bef1d9ce89b</webElementGuid>
+      <webElementGuid>2c263f92-8dc1-4268-b368-e583268337e3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Huawei Watch Fit 2 NegroCancelado</value>
-      <webElementGuid>f9ab201c-541a-496a-92c2-cd37affe1950</webElementGuid>
+      <webElementGuid>89386f53-220c-4cdb-8472-a3ca4e3680b8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;bg-base&quot;]/div[@class=&quot;render-container render-route-store-account&quot;]/div[@class=&quot;render-provider&quot;]/div[@class=&quot;vtex-store__template bg-base&quot;]/div[@class=&quot;flex flex-column min-vh-100 w-100&quot;]/div[5]/div[@class=&quot;flex flex-grow-1 w-100 flex-column&quot;]/div[2]/div[@class=&quot;vtex-account helvetica flex justify-around elektra-my-account-0-x-bgTransparent&quot;]/div[@class=&quot;elektra-my-account-0-x-container&quot;]/div[1]/div[@class=&quot;flex flex-grow-1 w-100 flex-column&quot;]/div[3]/section[@class=&quot;vtex-account__page w-100 w-80-m&quot;]/main[@class=&quot;vtex-account__page-body vtex-account__edit-order-id w-100 pa4-s&quot;]/div[@class=&quot;center w-100 helvetica&quot;]/section[@class=&quot;ph0&quot;]/div[1]/div[@class=&quot;elektra-myaccount-orders-elektra-0-x-contentStatus&quot;]/div[@class=&quot;elektra-myaccount-orders-elektra-0-x-containerStatus&quot;]</value>
-      <webElementGuid>5d9cf8be-377f-4136-8d1d-5d37893b78ab</webElementGuid>
+      <webElementGuid>706636cd-ec61-4dea-a38a-9252af8b5c04</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='enero'])[1]/following::div[4]</value>
-      <webElementGuid>a0bb6914-8c12-462d-8fd9-578276426a4c</webElementGuid>
+      <webElementGuid>a57ce50d-1d67-4dd5-8b5c-2125d39041b4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='enero'])[2]/preceding::div[6]</value>
-      <webElementGuid>2692a710-8c8c-4cb5-a92e-c7b43065226a</webElementGuid>
+      <webElementGuid>647be4bd-ba24-4f29-82f1-3e150fa83b43</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div[3]</value>
-      <webElementGuid>4c3043b6-27d3-4977-b9b2-811052a1a6be</webElementGuid>
+      <webElementGuid>24193e37-1d71-4b5d-b9fc-9dba28e64feb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,6 +78,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Huawei Watch Fit 2 NegroCancelado' or . = 'Huawei Watch Fit 2 NegroCancelado')]</value>
-      <webElementGuid>5efe4440-0008-47d4-a450-f0a267a74950</webElementGuid>
+      <webElementGuid>18e9a8ad-3809-43c2-8529-874e333a0497</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

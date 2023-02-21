@@ -12,41 +12,28 @@
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>47546bf3-3a64-4de3-9040-2602e1117f37</testSuiteGuid>
    <testCaseLink>
-      <guid>4e508bdf-df51-4204-986b-dd9fff3ddafb</guid>
+      <guid>33e96256-96ad-4928-8596-5387c948007c</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Elektra/createAccount_outlook</testCaseId>
+      <testCaseId>Test Cases/Elektra/PlaceOrderinElektraSite</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>44e59471-82ae-4a3a-84d9-a4ab2736bd4f</variableId>
+         <variableId>59760eef-d7d7-4b89-bd24-1df4f8cc455f</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>c2f23163-37f8-4b3b-b096-5c9a563b7fe9</variableId>
+         <variableId>c38403a6-0c36-411f-b001-cd7f5505dbd6</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>71c24d4c-82d6-4ed0-b7bf-01cfde3d829d</variableId>
+         <variableId>337ef33a-7a6f-443c-875e-874cb006974a</variableId>
       </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>7cce9598-ae61-4e16-9ced-8ce337020ea0</variableId>
-      </variableLink>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>6569194a-ab54-42ec-b5f0-19f718350140</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Elektra/SearchAndAddProduct</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

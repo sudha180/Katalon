@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Sigue tu pedido_vtex-render-runtime-8-x_3a1b44</name>
+   <tag></tag>
+   <elementGuidId>f6418c6e-a05b-4339-9c90-430cfd5d34f0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[contains(@src,'https://dh3yyy4wyj8lf.cloudfront.net/ekt-storefront/img-sites/elektra-io/account.svg')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.elektra-elektra-components-0-x-placeholderNoLogin > img.vtex-render-runtime-8-x-lazyload.ls-is-cached.lazyloaded</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>55553bb0-6569-457c-afe6-1788ad4aac37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vtex-render-runtime-8-x-lazyload ls-is-cached lazyloaded</value>
+      <webElementGuid>6b20de65-20cf-4de1-8a7b-ddd7cee51578</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-src</name>
+      <type>Main</type>
+      <value>https://dh3yyy4wyj8lf.cloudfront.net/ekt-storefront/img-sites/elektra-io/account.svg</value>
+      <webElementGuid>bb338274-d0e4-46d8-be1b-e35e7f264186</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>loading</name>
+      <type>Main</type>
+      <value>lazy</value>
+      <webElementGuid>f1a6347f-b607-4699-9bcf-dbf17f0c5253</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://dh3yyy4wyj8lf.cloudfront.net/ekt-storefront/img-sites/elektra-io/account.svg</value>
+      <webElementGuid>9dde9ffe-38d8-48aa-a700-485c2da4d39c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;bg-base&quot;]/div[@class=&quot;render-container render-route-store-search&quot;]/div[@class=&quot;render-provider&quot;]/div[@class=&quot;vtex-store__template bg-base&quot;]/div[@class=&quot;flex flex-column min-vh-100 w-100&quot;]/div[@class=&quot;vtex-sticky-layout-0-x-wrapper vtex-sticky-layout-0-x-wrapper--stuck&quot;]/div[@class=&quot;vtex-sticky-layout-0-x-container z-999 fixed left-0 right-0&quot;]/div[@class=&quot;vtex-flex-layout-0-x-flexRow vtex-flex-layout-0-x-flexRow--main-header-mobile&quot;]/div[@class=&quot;flex mt0 mb0 pt0 pb0    justify-start vtex-flex-layout-0-x-flexRowContent vtex-flex-layout-0-x-flexRowContent--main-header-mobile items-stretch w-100&quot;]/div[@class=&quot;pr0 items-stretch    flex&quot;]/div[@class=&quot;vtex-flex-layout-0-x-flexRow vtex-flex-layout-0-x-flexRow--main-header-cart-mobile&quot;]/div[@class=&quot;flex-none flex-ns mt0 mb0 pt0 pb0    justify-start vtex-flex-layout-0-x-flexRowContent vtex-flex-layout-0-x-flexRowContent--main-header-cart-mobile items-stretch w-100&quot;]/div[@class=&quot;pr0-ns pb0 pb0-ns items-stretch vtex-flex-layout-0-x-stretchChildrenWidth   flex&quot;]/div[@class=&quot;elektra-elektra-components-0-x-containerUserPlaceholderMobile&quot;]/div[@class=&quot;elektra-elektra-components-0-x-placeholderNoLogin&quot;]/img[@class=&quot;vtex-render-runtime-8-x-lazyload ls-is-cached lazyloaded&quot;]</value>
+      <webElementGuid>1a4243b4-1d22-4ffa-84be-37037451fbed</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[contains(@src,'https://dh3yyy4wyj8lf.cloudfront.net/ekt-storefront/img-sites/elektra-io/account.svg')]</value>
+      <webElementGuid>761e06af-2f0d-4b23-9ed8-7a091ccc5e0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[3]/div/div/div/div/div/img</value>
+      <webElementGuid>843e2a7f-c986-4bdf-a344-3bcf6b4bfa75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://dh3yyy4wyj8lf.cloudfront.net/ekt-storefront/img-sites/elektra-io/account.svg']</value>
+      <webElementGuid>fb50fdb7-c0d8-4e94-9632-ee074d5f36cb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

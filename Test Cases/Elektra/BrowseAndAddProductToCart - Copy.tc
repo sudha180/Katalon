@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>BrowseAndAddProductToCart - Copy</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b1dc18b9-7df1-4633-8b6c-9579ef113620</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>84549a3e-d474-43f4-923f-2468d1bbba46</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>26460f2d-fcef-43a9-a59d-1de443f34bc2</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5041ddff-b989-4791-82e1-8ed6f975794c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'https://www.elektra.mx/checkout/orderPlaced'</defaultValue>
+      <description></description>
+      <id>84549a3e-d474-43f4-923f-2468d1bbba46</id>
+      <masked>false</masked>
+      <name>confirmationPageUrl</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>26460f2d-fcef-43a9-a59d-1de443f34bc2</id>
+      <masked>false</masked>
+      <name>ActualmyOrdersUrl</name>
+   </variable>
+   <variable>
+      <defaultValue>'https://www.elektra.mx/account#/pedidos'</defaultValue>
+      <description></description>
+      <id>5041ddff-b989-4791-82e1-8ed6f975794c</id>
+      <masked>false</masked>
+      <name>expectedMyordersUrl</name>
+   </variable>
+</TestCaseEntity>

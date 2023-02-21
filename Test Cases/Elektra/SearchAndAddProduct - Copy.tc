@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>BrowseAndAddProductToCart</name>
+   <name>SearchAndAddProduct - Copy</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>f9c037e0-df5b-4498-8634-d9ecf134ab59</testCaseGuid>
+   <testCaseGuid>36acef62-87d2-426c-868e-0cbb01c3851b</testCaseGuid>
 </TestCaseEntity>

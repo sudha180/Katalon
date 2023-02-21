@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//img[@title='APPLE']</value>
+         <value>(//a[@class='vtex-slider-layout-0-x-imageElementLink vtex-slider-layout-0-x-imageElementLink--principal-carousel vtex-store-components-3-x-imageElementLink vtex-store-components-3-x-imageElementLink--principal-carousel'])[3]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>19ec3ae1-2a91-40a5-bcd3-056a2fb0b881</webElementGuid>
+      <webElementGuid>c0b7b193-f806-4808-b97b-1e432783955e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +29,7 @@
       <name>title</name>
       <type>Main</type>
       <value>APPLE</value>
-      <webElementGuid>f67724bf-9741-4499-ba4a-01525a1e5f67</webElementGuid>
+      <webElementGuid>e5d43e63-22ce-4b3e-a03f-3ad12958246f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +37,7 @@
       <name>src</name>
       <type>Main</type>
       <value>https://elektra.vtexassets.com/assets/vtex.file-manager-graphql/images/37e3a049-0c4e-4709-8576-e939ab16926a___b443aa0536530825a05aa1fac481dc9b.webp</value>
-      <webElementGuid>8a605642-1ca0-4925-9e9f-0ecae1a91672</webElementGuid>
+      <webElementGuid>fe61b7b8-61bf-482d-bb8e-77e56796705e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>vtex-slider-layout-0-x-imageElement vtex-slider-layout-0-x-imageElement--principal-carousel vtex-store-components-3-x-imageElement vtex-store-components-3-x-imageElement--principal-carousel</value>
-      <webElementGuid>1fdd5084-ef57-48e2-ab3f-2c0e0a26221f</webElementGuid>
+      <webElementGuid>c53af863-0299-4462-a03a-da6f1c376212</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +53,7 @@
       <name>crossorigin</name>
       <type>Main</type>
       <value>anonymous</value>
-      <webElementGuid>279efbfc-592c-427d-a706-e0edac01bc9f</webElementGuid>
+      <webElementGuid>68421f83-88f3-4bbd-ad10-d762368b3877</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;bg-base&quot;]/div[@class=&quot;render-container render-route-vtex-store-2-x-store-custom-category-telefonia&quot;]/div[@class=&quot;render-provider&quot;]/div[@class=&quot;vtex-store__template bg-base&quot;]/div[@class=&quot;flex flex-column min-vh-100 w-100&quot;]/div[5]/div[@class=&quot;flex flex-grow-1 w-100 flex-column&quot;]/div[1]/div[@class=&quot;vtex-flex-layout-0-x-flexRow vtex-flex-layout-0-x-flexRow--slider-principal&quot;]/section[@class=&quot;vtex-store-components-3-x-container ph3 ph5-m ph2-xl mw9 center&quot;]/div[@class=&quot;flex mt0 mb0 pt0 pb0    justify-start vtex-flex-layout-0-x-flexRowContent vtex-flex-layout-0-x-flexRowContent--slider-principal items-stretch w-100&quot;]/div[@class=&quot;pr0 items-stretch vtex-flex-layout-0-x-stretchChildrenWidth   flex&quot;]/section[@class=&quot;w-100 flex items-center relative vtex-slider-layout-0-x-sliderLayoutContainer vtex-slider-layout-0-x-sliderLayoutContainer--principal-carousel&quot;]/div[@class=&quot;w-100 vtex-slider-layout-0-x-sliderTrackContainer vtex-slider-layout-0-x-sliderTrackContainer--principal-carousel overflow-hidden&quot;]/div[@class=&quot;vtex-slider-layout-0-x-sliderTrack vtex-slider-layout-0-x-sliderTrack--principal-carousel flex justify-around relative pa0 ma0&quot;]/div[@class=&quot;vtex-slider-layout-0-x-slide vtex-slider-layout-0-x-slide--principal-carousel vtex-slider-layout-0-x-slide--visible vtex-slider-layout-0-x-slide--principal-carousel--visible flex relative&quot;]/div[@class=&quot;vtex-slider-layout-0-x-slideChildrenContainer vtex-slider-layout-0-x-slideChildrenContainer--principal-carousel flex justify-center items-center w-100&quot;]/a[@class=&quot;vtex-slider-layout-0-x-imageElementLink vtex-slider-layout-0-x-imageElementLink--principal-carousel vtex-store-components-3-x-imageElementLink vtex-store-components-3-x-imageElementLink--principal-carousel&quot;]/div[1]/img[@class=&quot;vtex-slider-layout-0-x-imageElement vtex-slider-layout-0-x-imageElement--principal-carousel vtex-store-components-3-x-imageElement vtex-store-components-3-x-imageElement--principal-carousel&quot;]</value>
-      <webElementGuid>ba56cb92-2744-4bb4-9051-83798844025e</webElementGuid>
+      <webElementGuid>daf108bc-40a3-4721-85bc-05bd88bb80fb</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:img</name>
       <type>Main</type>
       <value>//img[@title='APPLE']</value>
-      <webElementGuid>d406bd87-7bd8-4a48-a284-2ab856489893</webElementGuid>
+      <webElementGuid>16f68563-e839-4951-8b72-31744c607a44</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[9]/div/a/div/img</value>
-      <webElementGuid>287ef456-ca47-43db-bb5b-438a8321907c</webElementGuid>
+      <webElementGuid>bbee952a-6007-4291-981e-0945fa4b2e74</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +85,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@title = 'APPLE' and @src = 'https://elektra.vtexassets.com/assets/vtex.file-manager-graphql/images/37e3a049-0c4e-4709-8576-e939ab16926a___b443aa0536530825a05aa1fac481dc9b.webp']</value>
-      <webElementGuid>96044fb6-ea23-4d2f-ad82-3ed4fcdd7e6c</webElementGuid>
+      <webElementGuid>051336da-e8e3-48a4-8994-b0c36c4c8e7f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

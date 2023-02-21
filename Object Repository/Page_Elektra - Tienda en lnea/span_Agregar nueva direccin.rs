@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div_AddToCart_pdp</name>
+   <name>span_Agregar nueva direccin</name>
    <tag></tag>
-   <elementGuidId>cc4d14fa-3d24-44fe-a71b-00b002095e9d</elementGuidId>
+   <elementGuidId>0bc27726-d842-430d-955e-cddb941213b6</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//button[@id='vtex-add-to-cart']//div[@class='vtex-button__label flex items-center justify-center h-100 ph6 ']</value>
+         <key>CSS</key>
+         <value>#Shipping_add__3KsL5 > span</value>
       </entry>
       <entry>
-         <key>CSS</key>
+         <key>XPATH</key>
+         <value>//div[@id='Shipping_add__3KsL5']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -20,95 +21,87 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>div</value>
-      <webElementGuid>accfc54d-4051-4fd4-b375-bb65ff40ba5f</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>vtex-button__label flex items-center justify-center h-100 ph6 </value>
-      <webElementGuid>c67ae366-5890-4ff3-9400-c218940702b9</webElementGuid>
+      <value>span</value>
+      <webElementGuid>548e199c-4aa7-40f3-8d68-28bb1036bdd5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Agregar al carrito</value>
-      <webElementGuid>b0f87ae2-f1c0-418e-9996-25a2fddcb6c7</webElementGuid>
+      <value>Agregar nueva dirección</value>
+      <webElementGuid>a070771b-4f70-49f9-99ef-082b7b24da9e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;vtex-add-to-cart&quot;)/div[@class=&quot;vtex-button__label flex items-center justify-center h-100 ph6&quot;]</value>
-      <webElementGuid>13b05c53-86b6-465a-a637-614c25f24bd9</webElementGuid>
+      <value>id(&quot;Shipping_add__3KsL5&quot;)/span[1]</value>
+      <webElementGuid>87edd715-160c-42c3-9ff3-c4336bf4268a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//button[@id='vtex-add-to-cart']/div</value>
-      <webElementGuid>f047fca0-65d5-499b-99ad-040e541de98e</webElementGuid>
+      <value>//div[@id='Shipping_add__3KsL5']/span</value>
+      <webElementGuid>24af0951-fe0d-44ee-9208-0a2ec1d111a0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Comprar'])[1]/following::div[5]</value>
-      <webElementGuid>80974864-3589-4664-9805-08a40d5d4c23</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Editar'])[2]/following::span[1]</value>
+      <webElementGuid>0b8f77b0-e6d1-47fb-adf0-fbb1f3893dd5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='－'])[1]/following::div[11]</value>
-      <webElementGuid>dc3daf82-8df7-4dd6-9ed2-5713f86c1ead</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DISTRITO FEDERAL'])[1]/following::span[1]</value>
+      <webElementGuid>962400f5-298f-4d68-a531-ac3b5c79db52</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='✖'])[1]/preceding::div[50]</value>
-      <webElementGuid>bcb4444f-9d22-4282-bc5e-143e1aa6b87f</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Continuar con el pago'])[1]/preceding::span[1]</value>
+      <webElementGuid>e8c348b1-782b-4ce7-b62b-3c9b6306f20c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Original text'])[1]/preceding::div[56]</value>
-      <webElementGuid>102cd4f6-a694-40aa-a007-46fff4262c39</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pago'])[1]/preceding::span[1]</value>
+      <webElementGuid>21490cee-334a-4c99-955e-7e06fd5b7c4a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Agregar al carrito']/parent::*</value>
-      <webElementGuid>96734c7e-6240-4099-9515-0b1f9fceb355</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Agregar nueva dirección']/parent::*</value>
+      <webElementGuid>e9364e3f-1e33-4a78-9de3-fa38a38e8a18</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[6]/div/div/div/button/div</value>
-      <webElementGuid>81bdcbab-aa75-4b2b-a771-c4968650a66a</webElementGuid>
+      <value>//section/div/section/section/div/span</value>
+      <webElementGuid>744c2031-c376-45c7-b303-b97c06f14098</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//div[(text() = 'Agregar al carrito' or . = 'Agregar al carrito')]</value>
-      <webElementGuid>ad816219-6f92-43f5-a97e-1848342540bd</webElementGuid>
+      <value>//span[(text() = 'Agregar nueva dirección' or . = 'Agregar nueva dirección')]</value>
+      <webElementGuid>abe9416f-63b8-4820-b845-7f26453adbb8</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

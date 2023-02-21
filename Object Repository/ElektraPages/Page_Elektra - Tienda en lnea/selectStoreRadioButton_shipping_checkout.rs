@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value></value>
+         <value>(//div[@class='Store_element__rVVdB undefined undefined']//div)[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>circle</value>
-      <webElementGuid>e2ca8f1f-d64d-44cf-8f02-f879dbc8094b</webElementGuid>
+      <webElementGuid>3a63793d-117a-4fa8-9e5e-ea6b8ac21e58</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>cx</name>
       <type>Main</type>
       <value>12</value>
-      <webElementGuid>a54ab0d6-c9bc-4526-9955-e61a01e19d11</webElementGuid>
+      <webElementGuid>d108ad5f-756e-4094-8f4f-ef3506ec6008</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>cy</name>
       <type>Main</type>
       <value>12</value>
-      <webElementGuid>2c9933ea-2c6c-4e95-a951-e38584a07d24</webElementGuid>
+      <webElementGuid>f8e83610-57b5-4375-b8a2-03a928b57b49</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>r</name>
       <type>Main</type>
       <value>5</value>
-      <webElementGuid>e794a549-dc23-49c7-becd-858516797010</webElementGuid>
+      <webElementGuid>1899bfa0-efba-40e1-b371-98dd804bbbee</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>fill</name>
       <type>Main</type>
       <value>#FFF</value>
-      <webElementGuid>50b47980-5acb-4e0a-9993-1a3cfff3c57f</webElementGuid>
+      <webElementGuid>683f2432-46a8-4f46-ab70-60817324c016</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,6 +62,6 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;Locator_list__1qoaI&quot;)/div[@class=&quot;Store_element__rVVdB undefined undefined&quot;]/div[@class=&quot;Store_radio__2DMcI&quot;]/svg[1]/g[1]/g[1]/g[1]/g[1]/g[1]/circle[1]</value>
-      <webElementGuid>b9535d36-df47-43da-8c4a-7b1caf591a4c</webElementGuid>
+      <webElementGuid>d1305235-c3a8-4c0a-af5d-900970436d23</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

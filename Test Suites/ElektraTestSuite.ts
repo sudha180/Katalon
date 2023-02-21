@@ -60,32 +60,25 @@
       <guid>bcc60561-748d-49ab-9f2a-72a1bac930a2</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Elektra/BrowseAndAddProductToCart</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>0ec1a586-5ae1-4d8d-a2ca-2e2d539c98fd</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Elektra/E2E_PlaceOrder</testCaseId>
+      <testCaseId>Test Cases/Elektra/PlaceOrderinElektraSite</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>f0d23c95-4ed1-41df-a61e-a06613b824ae</variableId>
+         <variableId>59760eef-d7d7-4b89-bd24-1df4f8cc455f</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>a4b35fa5-fffa-46d3-b4ce-7c687757a0dd</variableId>
+         <variableId>c38403a6-0c36-411f-b001-cd7f5505dbd6</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>f008d37d-5a42-4f84-86e0-de2c5291d222</variableId>
+         <variableId>337ef33a-7a6f-443c-875e-874cb006974a</variableId>
       </variableLink>
    </testCaseLink>
 </TestSuiteEntity>

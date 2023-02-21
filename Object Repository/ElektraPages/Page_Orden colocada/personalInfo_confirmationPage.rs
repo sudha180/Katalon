@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div_Datos personalessudha ranisaddepallikog_5d906f</name>
+   <name>personalInfo_confirmationPage</name>
    <tag></tag>
    <elementGuidId>0a26eacd-f671-46bd-a1c0-7e041757514e</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div.flex.flex-column.w-20.elektra-elektra-components-0-x-section1</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>(.//*[normalize-space(text()) and normalize-space(.)='Elektra'])[1]/following::div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.flex.flex-column.w-20.elektra-elektra-components-0-x-section1</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
